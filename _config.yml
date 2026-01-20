@@ -12,7 +12,7 @@ description: > # The National Digital Stewardship Alliance works to establish,
  maintain, and advance the capacity to preserve our nation's digital resources
  for the benefit of present and future generations.
 baseurl: /ndsa.org # the subpath of your site, e.g. /blog
-url: "https://niso-standards.github.io/ndsa.org/" # the base hostname & protocol for your site
+url: "https://niso-standards.github.io/ndsa.org" # the base hostname & protocol for your site
 twitter_username: ndsa2
 github_username:  clirdlf
 timezone: America/New_York
