@@ -15,7 +15,7 @@ javascript:
   - [What commitment is expected if my organization joins the NDSA?](#what-commitment-is-expected-if-my-organization-joins-the-ndsa)
   - [What are the benefits of joining the NDSA?](#what-are-the-benefits-of-joining-the-ndsa)
   - [Does the NDSA provide funding?](#does-the-ndsa-provide-funding)
-  - [How does NDSA relate to the DLF? To CLIR?](#how-does-ndsa-relate-to-the-dlf-to-clir)
+  - [How does NDSA relate to NISO?](#how-does-ndsa-relate-to-NISO)
 
 ### Participation
   - [What is the difference between an Interest Group and a Working Group?](#what-is-the-difference-between-an-interest-group-and-a-working-group)
@@ -50,11 +50,11 @@ Members have direct contact with other experts in digital stewardship and an opp
 
 ### Does the NDSA provide funding?
 
-The NDSA does not provide funding for projects or building tools and infrastructure, although some of our member organizations do. Look for [relevant funding opportunities](https://www.diglib.org/opportunities/) in data curation and digitization from NDSA's host organization, [CLIR](https://www.clir.org/) and [DLF](https://www.diglib.org/).
+The NDSA does not provide funding for projects or building tools and infrastructure, although some of our member organizations do. Look for [relevant funding opportunities](https://www.diglib.org/opportunities/) in data curation and digitization from NDSA's host organization, [NISO] (https://www.niso.org).
 
-### How does NDSA relate to the DLF? To CLIR?
+### How does NDSA relate to NISO?
 
-The Council on Library and Information Resources (CLIR) and the [Digital Library Federation(DLF)](https://www.diglib.org/) believe strongly in NDSA's mission and [foundational principles](/about/foundational-principles/). NDSA is financially supported by the DLF, which also provides communications infrastructure, staff time, and provides a representative who participates in [Leadership](/about/leadership/) calls. [CLIR](https://www.clir.org/) is the parent organization of the DLF, but DLF itself runs on independent membership fees. If you like what DLF is doing to support digital stewardship at no cost to NDSA members, please [join DLF](https://www.diglib.org/members/join/) and contribute!
+The National Information Standards Organization (NISO) [NISO] (https://niso.org) believes strongly in NDSA's mission and [foundational principles](/about/foundational-principles/). NDSA is fiscally managed by NISO, which also provides communications infrastructure, staff time, and provides a representative who participates in [Leadership](/about/leadership/) calls.  If you like what NISO is doing to support information management, interopertabilyt, and digital stewardship, please [join NISO]([https://www.diglib.org/members/join/](https://www.niso.org/join) and contribute!
 
 ## Participation
 
