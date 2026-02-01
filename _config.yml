@@ -11,7 +11,7 @@ email: ndsa.digipres@gmail.com
 description: > # The National Digital Stewardship Alliance works to establish,
  maintain, and advance the capacity to preserve our nation's digital resources
  for the benefit of present and future generations.
-baseurl: "https://niso-standards.github.io/" # the subpath of your site, e.g. /blog
+baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://niso-standards.github.io/" # the base hostname & protocol for your site
 twitter_username: ndsa2
 github_username:  niso-standards
