@@ -54,7 +54,7 @@ The NDSA does not provide funding for projects or building tools and infrastruct
 
 ### How does NDSA relate to NISO?
 
-The National Information Standards Organization (NISO) [NISO] (https://niso.org) believes strongly in NDSA's mission and [foundational principles](/about/foundational-principles/). NDSA is fiscally managed by NISO, which also provides communications infrastructure, staff time, and provides a representative who participates in [Leadership](/about/leadership/) calls.  If you like what NISO is doing to support information management, interopertabilyt, and digital stewardship, please [join NISO]([https://www.diglib.org/members/join/](https://www.niso.org/join) and contribute!
+The National Information Standards Organization (NISO) [NISO] (https://niso.org) believes strongly in NDSA's mission and [foundational principles](/about/foundational-principles/). NDSA is fiscally managed by NISO, which also provides communications infrastructure, staff time, and provides a representative who participates in [Leadership](/about/leadership/) calls.  If you like what NISO is doing to support information management, interopertabilyt, and digital stewardship, please [join NISO](https://www.niso.org/join) and contribute!
 
 ## Participation
 
