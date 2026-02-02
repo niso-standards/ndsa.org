@@ -59,6 +59,6 @@ Don't be afraid to change Interest Groups. If the one you initially signed up fo
 <!-- - If all else fails, <ndsa@diglib.org>.-->
 
 ## Questions?
-Feel free to drop us a line at <ndsa@diglib.org>.
+Feel free to drop us a line at ndsa [dot] digipres [at] gmail.com
 
 **If you're not yet an NDSA member, we urge you to [get involved](/get-involved/)!** Our Coordinating Committee reviews applications from new members on a monthly basis.

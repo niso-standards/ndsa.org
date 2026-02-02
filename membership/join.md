@@ -32,7 +32,7 @@ Representatives from NDSA member organizations agree to:
 - Participate in the surveys NDSA conducts of its membership.
 - Review drafts of NDSA publications and provide feedback as requested.
 - Assist with dissemination of NDSA news as requested.
-- Follow the [DLF Code of Conduct](https://www.diglib.org/about/code-of-conduct/).
+- Follow the [NDSA Code of Conduct](https://ndsa.org/about/code-of-conduct/).
 
 Representatives may further contribute by:
 - Volunteering or presenting at NDSA’s annual conference.  
