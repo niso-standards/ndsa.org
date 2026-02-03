@@ -30,6 +30,9 @@ redirect_from: /leadership/
     <li>Communicating clearly, respectfully, and in a timely fashion to support active participation by all members of the project team, especially when leading or participating in CC projects.</li>
 </ul>
 
+<p>A larger Leadership Transition Team, made up of members of the NDSA Leadership group, has been formed and is managing the additional details required while NDSA changes host organizations. The Leadership Transition Team incudes: Stacey Jones (co-chair), Matthew McEniry (co-chair), John Dewees, Ann Hanlon, Grete Graf, Carol Kussmann, Dan Noonan, Bethany Scott, and Danielle Taylor.</p>
+
+
 <h2>Host Organization</h2>
 <p>NDSA derives its administrative and financial support through a Host Organization. The Host Organization:</p>
 <ul>
@@ -105,7 +108,7 @@ redirect_from: /leadership/
     </div>
 </div>
 
-<div class="row coordinating-committee">
+<!--<div class="row coordinating-committee">
     <div class="col-sm-10">
         <h3>Shira Peltzman, 2025 Chair</h3>
         <p>Shira Peltzman (1st term, 2023-2025) is the Associate Director for Preservation Digital Strategies at Yale University Library where she provides leadership and direction for digital preservation, media preservation, and preservation imaging. In her role she serves as an advocate for sustainable stewardship and works with stakeholders across campus to champion ambitious preservation initiatives that support enduring access to Yale’s digital collections.</p>
@@ -113,7 +116,7 @@ redirect_from: /leadership/
     <div class="col-sm-2">
         <img class="img-responsive" class="img-responsive" alt="Shira Peltzman" src="{{ '/images/coordinating-committee/peltzman2022.jpg' | prepend: site.baseurl }}">
     </div>
-</div>
+</div>-->
 
 <div class="row coordinating-committee">
     <div class="col-sm-10">
