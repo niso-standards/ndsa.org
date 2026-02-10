@@ -14,13 +14,14 @@ Since the last working group formed, there have been substantial changes in web 
 The general public’s interest in saving websites has increased in no small part due to press coverage of changing political and technological landscapes.  Multiple articles about web archiving were published in mainstream publications for general audiences, including Internet Archive Blogs, the New Yorker, the New York Times, BBC, and Forbes. Cultural heritage institutions around the world have experienced data breaches and DDOS attacks, yet, collaborative web archive collections have been made publicly available from organizations including the International Internet Preservation Consortium, IvyPlus Libraries Confederation, and the Saving Ukrainian Cultural Heritage Online (SUCHO) project. 
 
 
-
 ## 2026 Working Group Members
-- Elana Colon-Marrero, Co-chair, University of Michigan, Bentley Historical Library
+- Elena Colon-Marrero, Co-chair, University of Michigan, Bentley Historical Library
 - Melissa Wertheimer, Co-chair, Library of Congress
+- Aurora Charlow, Ohio State University
+- rete Graf, Yale University
+- David Schober, Internet Archive
+- Liam Sullivan, Harvard Business School
   
-The Web Archiving Survey Working Group call for volunteers is officially open.  
-
 
 ## Contact Us
 If you have any questions please contact the Co-Chairs, Melissa Wertheimer (mwer [at] loc [dot] gov) and Elena Colón-Marrero (emcolonm [at] umich [dot] edu). 
