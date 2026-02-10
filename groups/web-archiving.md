@@ -18,7 +18,7 @@ The general public’s interest in saving websites has increased in no small par
 - Elena Colon-Marrero, Co-chair, University of Michigan, Bentley Historical Library
 - Melissa Wertheimer, Co-chair, Library of Congress
 - Aurora Charlow, Ohio State University
-- rete Graf, Yale University
+- Grete Graf, Yale University
 - David Schober, Internet Archive
 - Liam Sullivan, Harvard Business School
   
