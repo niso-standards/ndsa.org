@@ -90,7 +90,7 @@ The answer depends on what exactly your organizational goals and needs are. It i
 
 ### How do we join a specific Interest Group or Working Group?
 
-When organizations join the NDSA, they indicate which Interest Groups they would like to join, and which individuals will participate in each of those groups. Once a organization's application is approved, those people are added to the relevant listservs and can begin collaborating. Individuals at member organizations can also join other NDSA Interest Groups and Working Groups at any point. To join a particular group, contact <ndsa.digipres@gmail.com> or the [group's chair](/working-groups/) to let us know what member organization you represent and make your request.
+When organizations join the NDSA, they indicate which Interest Groups they would like to join, and which individuals will participate in each of those groups. Once a organization's application is approved, those people are added to the relevant listservs and can begin collaborating. Individuals at member organizations can also join other NDSA Interest Groups and Working Groups at any point. To join a particular group, contact ndsa.digipres [at] gmail.com or the [group's chair](/working-groups/) to let us know what member organization you represent and make your request.
 
 ### Can I switch to a different group?
 
