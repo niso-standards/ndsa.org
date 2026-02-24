@@ -107,12 +107,6 @@ Definitely! We encourage participation on multiple Interest Groups and Working G
 NDSA has an email list for sharing information and coordinating activities. To subscribe to the list, simply sign up or send a request to your Interest Group Co-Chairs.
 
 - [NDSA-All](https://gaggle.email/join/ndsalist@ndsa.org) - for general announcements
-<!--deprecated CLIR listservs
-- [NDSA-all](https://lists.clir.org/cgi-bin/wa?A0=NDSA-ALL), for general announcements
-- [Content Interest Group Listserv](http://lists.clir.org/cgi-bin/wa?A0=NDSA-CONTENT)
-- [Infrastructure Interest Group Listserv](http://lists.clir.org/cgi-bin/wa?A0=NDSA-INFRASTRUCTURE)
-- [Standards and Practices Interest Group Listserv](http://lists.clir.org/cgi-bin/wa?A0=NDSA-STANDARDS)
-!-->
 
 ### I just joined the NDSA. How can I get involved?
 
