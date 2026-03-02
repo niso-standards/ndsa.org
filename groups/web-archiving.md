@@ -17,7 +17,7 @@ The general public’s interest in saving websites has increased in no small par
 ## 2026 Working Group Members
 - Elena Colon-Marrero, Co-chair, University of Michigan, Bentley Historical Library
 - Melissa Wertheimer, Co-chair, Library of Congress
-- Aurora Charlow, Ohio State University
+- Aurora Charlow, Ohio University
 - Grete Graf, Yale University
 - David Schober, Internet Archive
 - Liam Sullivan, Harvard Business School
