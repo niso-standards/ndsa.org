@@ -91,5 +91,4 @@ Find more information on the Levels of Preservation Working Group on their [webp
 * [Working Definitions of Terms](https://osf.io/rynmf/) VERSION 2
 
 
-[![Levels of Digital Preservation, Version 2.1](/images/LevelsMatrix_v2-1.png | width= 100 "Levels of Digital Preservation, Version 2.1")](https://osf.io/2mkwx/) 
-<p align="left"><em>Levels of Digital Preservation Version 2.1 Matrix</em></p>
+![](/images/LevelsMatrix_v2-1.png | width= 100)]
