@@ -11,7 +11,7 @@ All versions of the Levels of Preservation matrix, documentation, and supporting
 Version 2.1 of the Levels was created by the Levels of Digital Preservation Revision Working Group. For more information, please contact a member of the [Levels Steering Group](/groups/levels-of-preservation/). 
 
 
-[Levels of Digital Preservation, Version 2.1](/images/working-groups/LevelsMatrix_v2-1.png "Levels of Digital Preservation, Version 2.1")](https://osf.io/2mkwx/)
+[![Levels of Digital Preservation, Version 2.1](/images/working-groups/LevelsMatrix_v2-1.png "Levels of Digital Preservation, Version 2.1")](https://osf.io/2mkwx/) 
 <p align="left"><em>Levels of Digital Preservation Version 2.1 Matrix</em></p>
 
 
