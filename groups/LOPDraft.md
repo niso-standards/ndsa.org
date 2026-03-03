@@ -10,9 +10,9 @@ All versions of the Levels of Preservation matrix, documentation, and supporting
 
 Version 2.1 of the Levels was created by the Levels of Digital Preservation Revision Working Group. For more information, please contact a member of the [Levels Steering Group](/groups/levels-of-preservation/). 
 
-[![Levels of Digital Preservation, Version 2.1](/images/LevelsMatrix_v2-1.png "Levels of Digital Preservation, Version 2.1")](https://osf.io/2mkwx/) 
+ <img class="img-responsive" class="img-responsive" alt="Levels of Digital Preservation Matrix V2.1" src="{{ '/images//LevelsMatrix_v2-1.png' | prepend: site.baseurl }}"> 
 <p align="left"><em>Levels of Digital Preservation Version 2.1 Matrix</em></p>
-NEED TO WORK ON RESIZING
+NEED TO UPDATE IMAGE - 
 
 ### Levels of Digital Preservation V2.1 Matrix
 The Levels of Digital Preservation Matrix, shown above in color, is available in both color and black and white on the OSF site.    
@@ -79,16 +79,7 @@ The following reports describe surveys of users and use cases for Version 1 of t
 
 On World Digital Preservation Day 2020, the Levels of Digital Preservation Working Group became a [Digital Preservation Award](https://www.dpconline.org/events/digital-preservation-awards) winner receiving the [International Council on Archives](https://www.ica.org/en) Award for Collaboration and Cooperation! This award is not possible without the collaboration of hundreds of people over the course of the project!  Thank you to everyone who participated and for those just joining in the work. 
 
-[![Levels of Digital Preservation, Version 2.0](/images/LOP_v2.png "Levels of Digital Preservation, Version 2.0")](https://osf.io/2mkwx/)
-<p align="center"><em>Levels of Digital Preservation Version 2.0 Matrix (Levels of Digital Preservation Working Group. "2019 Levels of Digital Preservation Matrix", October 2019, https://osf.io/2mkwx/.)</em></p>
-
 <!--### Levels of Preservation Working Group
 This work was done by the Levels of Preservation Working Group.  It is expected that the Levels of Digital Preservation will continue to be updated over time as additional feedback is received, experience is gained implementing its recommendations and as empirical research provides detailed information about data loss. For this reason, each iteration of the Levels will be versioned.
 
 Find more information on the Levels of Preservation Working Group on their [webpage](https://ndsa.org/working-groups/levels-of-preservation/).-->
-
-
-* [Working Definitions of Terms](https://osf.io/rynmf/) VERSION 2
-
-
- <img class="img-responsive" class="img-responsive" alt="Levels of Digital Preservation Matrix V2.1" src="{{ '/images//LevelsMatrix_v2-1.png' | prepend: site.baseurl }}"> 
