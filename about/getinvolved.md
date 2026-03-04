@@ -7,7 +7,7 @@ There are many ways to get involved with the NDSA Community. Attend an Interest 
 
 ## Current Group Opportunities
 Last updated 3/3/2026
- * The [Climate Watch Group](https://ndsa.org/groups/climate-watch/) is soliciting for new group members.  To express interest please reach by sending a message to the Climate Watch group at nsda_climate_watch [at] googlegroups [dot] com. 
+ <!--* The [Climate Watch Group](https://ndsa.org/groups/climate-watch/) is soliciting for new group members.  To express interest please reach by sending a message to the Climate Watch group at nsda_climate_watch [at] googlegroups [dot] com.-->
   
  * The [Membership Working Group](https://ndsa.org/groups/membership/) is looking for one additional member to join thier team.  Please reach out to one of the co-chairs listed on the Membership Working Group webpage to express interest or ask questions.    
  
