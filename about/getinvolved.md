@@ -20,7 +20,7 @@ Last updated 3/3/2026
 ## Join or lead a Working Group 
 - The [Working Group Schedule](https://ndsa.org/groups/schedule/) provides a general timeline as to when the NDSA publications are scheduled to start back up.  Specific pportunities will be posted here, however if you are interested in leading one of these groups reach out to someone on [Leadership](/about/leadership/).  For more information on the responsibilities and expectations of a co-chair review [Co-Chairing an NDSA Group](/groups/co-chairing/).
 
-## Communicate with collegues
+## Communicate with colleagues
 NDSA has a listserv for sharing announcements and a Slack channel for asking questions and communicating with collegues.
 
 ### Sign up for the NDSA Listserv
