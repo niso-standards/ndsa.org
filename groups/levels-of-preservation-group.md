@@ -1,5 +1,5 @@
 ---
-title: Levels of Digital Preservation Working Group
+title: Levels of Digital Preservation Steering Group and Working Group
 layout: page
 permalink: /groups/levels-of-preservation/
 redirect_from: /working-groups/levels-of-preservation/
