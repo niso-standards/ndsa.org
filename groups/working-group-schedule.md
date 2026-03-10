@@ -32,8 +32,8 @@ th, td {
 | 2022 	|        	|                        	|    Schedule under review   	|                 	|                	|    	|
 | 2023 	|        	|                        	|        	|                 	|        [Completed](https://doi.org/10.17605/OSF.IO/9QP4W)      	|    [Completed](https://osf.io/n5myr/)           	|
 | 2024 	|        	|            [Completed](https://ndsa.org/publications/levels-of-digital-preservation/)           	|       	|                	|                	|              	|
-| 2025 	|    [In Progress](https://ndsa.org/groups/fixity/)   	|                        	|        	|        [In Progress](https://ndsa.org/groups/staffing/)         	|                	|       X       	|
-| 2026 	|        	|                        	|       	|                 	|        X       	|               	|
+| 2025 	|    [In Progress](https://ndsa.org/groups/fixity/)   	|                        	|        	|        [In Progress](https://ndsa.org/groups/staffing/)         	|                	|              	|
+| 2026 	|        	|                        	|       	|                 	|        X       	|    [In Progress](https://www.ndsa.org/groups/web-archiving/)          	|
 | 2027 	|        	|                        	|        	|                 	|                	|              	|
 | 2028 	|        	|                        	|       	|        X         	|                	|       X        	|
 | 2029 	|    X   	|            X           	|        	|                 	|        X       	|               	|
