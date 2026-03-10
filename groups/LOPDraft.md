@@ -10,9 +10,8 @@ All versions of the Levels of Digital Preservation matrix, documentation, and su
 
 Version 2.1 of the Levels was created by the Levels of Digital Preservation Revision Working Group (2024-2026). For more information, please contact a member of the [Levels Steering Group](/groups/levels-of-preservation/). 
 
- <img class="img-responsive" class="img-responsive" alt="Levels of Digital Preservation Matrix V2.1" src="{{ '/images//LevelsMatrix_v2-1.png' | prepend: site.baseurl }}"> 
+ <img class="img-responsive" class="img-responsive" alt="Levels of Digital Preservation Matrix V2.1" src="{{ '/images//Levels_v2-1.png' | prepend: site.baseurl }}"> 
 <p align="left"><em>Levels of Digital Preservation Version 2.1 Matrix</em></p>
-NEED TO UPDATE IMAGE - 
 
 ### Levels of Digital Preservation V2.1 Matrix
 The Levels of Digital Preservation Matrix, shown above in color, is available in both color and black and white on the OSF site.    
@@ -46,10 +45,10 @@ Various elements of the Levels have been translated into different languages by 
 * ARABIC: Translations have been done for the [Matrix V2.0](https://osf.io/2mkwx/files/hbzjq) and [Implementation guide v2.0](https://osf.io/nt8u9/files/58e4d).
 * DUTCH: A Dutch translation has been made for the Levels [Matrix V2.0](https://osf.io/brqga/).
 * FINNISH: Translations have been done for the [Matrix V2.0](https://osf.io/69gpf/) and [Assessment Tool V2.0](https://osf.io/ef6x8/).  Both can also be found in the [Finnish Digital Preservation repository](https://www.digitalpreservation.fi/specifications/ndsalevels).
-* FRENCH: Translations have been done for the [Matrix V2.0](https://osf.io/y7nbr/), [Implementation Guidelines](https://osf.io/nt8u9/files/8wyjh) and [Assessment Tool V2.0 Documentation](https://osf.io/xwghf/). Translations are also available from the [Bibliotheque nationale de France](https://hal-bnf.archives-ouvertes.fr/hal-02162334). Translations for Version 1 are also available.  TO DO FIND V1.
+* FRENCH: Translations have been done for the [Matrix V2.0](https://osf.io/y7nbr/), [Implementation Guidelines V2.0](https://osf.io/nt8u9/files/8wyjh) and [Assessment Tool V2.0 Documentation](https://osf.io/xwghf/). Translations are also available from the [Bibliotheque nationale de France](https://hal-bnf.archives-ouvertes.fr/hal-02162334). A translations for the original matrix (version 1) is also available: [Matrix V1.0](https://osf.io/9ya8c/files/2cxjw)
 * GERMAN: A German translation has been made of the [Matrix V2.0](https://osf.io/3na96/).
 * PORTUGUESE: A Portuguese translation has been made of the [Matrix V2.0](https://osf.io/3amnu/).
-* SPANISH: Spanish translations have been made for Version 2.0 of the Matrix.  Translations are available in NDSA's OSF repository ([Matrix V2.0](https://osf.io/aqh63/)) as well as in APREDIG (Ibero-American association for digital preservation) ([Version 2.0](http://www.apredig.org/npdndsa2019/)).  Translations for Version 1 are also available.  (TO DO: FIND LINK for V1)
+* SPANISH: Spanish translations have been made for Version 2.0 of the Matrix.  Translations are available in NDSA's OSF repository ([Matrix V2.0](https://osf.io/aqh63/)) as well as in APREDIG (Ibero-American association for digital preservation) ([Version 2.0](http://www.apredig.org/npdndsa2019/)).  A Spanish translation for the original matrix (version 1) is also available: [LevelsMatrixV1-0](https://osf.io/9ya8c/files/ax9zs).
 * TURKISH: A Turkish translation has been made of the [Matrix V2.0](https://osf.io/c7ge3/) and [Implementation Guide V2.0](https://osf.io/fje6v/).
 * UKRAINIAN: A Ukrainian Translation has been made of the [Matrix V2.0](https://osf.io/3keaj/).
   
@@ -76,7 +75,7 @@ The following reports describe surveys of users and use cases for Version 1 of t
 ### Award Winners
 [![Digital Preservation Award](/images/DPC_Award_Logo.jpg "Digital Preservation Award Logo"){:height="10%" width="10%"}](https://www.dpconline.org/events/digital-preservation-awards) 
 
-On World Digital Preservation Day 2020, the 2019 Levels of Digital Preservation Working Group became a [Digital Preservation Award](https://www.dpconline.org/events/digital-preservation-awards) winner receiving the [International Council on Archives Award for Collaboration and Cooperation!](https://www.ica.org/en) This award is not possible without the collaboration of hundreds of people over the course of the project!  Thank you to everyone who participated! 
+On World Digital Preservation Day 2020, the 2019 Levels of Digital Preservation Working Group became a [Digital Preservation Award](https://www.dpconline.org/events/digital-preservation-awards) winner receiving the [International Council on Archives Award for Collaboration and Cooperation!](https://www.dpconline.org/events/digital-preservation-awards/digital-preservation-awards-2020) This award is not possible without the collaboration of hundreds of people over the course of the project!  Thank you to everyone who participated! 
 
 <!--### Levels of Preservation Working Group
 This work was done by the Levels of Preservation Working Group.  It is expected that the Levels of Digital Preservation will continue to be updated over time as additional feedback is received, experience is gained implementing its recommendations and as empirical research provides detailed information about data loss. For this reason, each iteration of the Levels will be versioned.
