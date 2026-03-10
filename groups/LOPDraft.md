@@ -8,7 +8,7 @@ The Levels of Digital Preservation (also referred to as the 'Levels') is a resou
 
 All versions of the Levels of Digital Preservation matrix, documentation, and supporting resources are available from the [NDSA Levels of Digital Preservation Project](https://osf.io/rcs38/) in the OSF repository. The direct links provided below go to the most recent version unless otherwise indicated.    
 
-Version 2.1 of the Levels was created by the Levels of Digital Preservation Revision Working Group (2024-2026). For more information, please contact a member of the [Levels Steering Group](/groups/levels-of-preservation/). 
+Version 2.1 of the Levels was created by the Levels of Digital Preservation Working Group (2024-2026). For more information, please contact a member of the [Levels Steering Group](/groups/levels-of-preservation/). 
 
  <img class="img-responsive" class="img-responsive" alt="Levels of Digital Preservation Matrix V2.1" src="{{ '/images//Levels_v2-1.png' | prepend: site.baseurl }}"> 
 <p align="left"><em>Levels of Digital Preservation Version 2.1 Matrix</em></p>
@@ -75,7 +75,7 @@ The following reports describe surveys of users and use cases for Version 1 of t
 ### Award Winners
 [![Digital Preservation Award](/images/DPC_Award_Logo.jpg "Digital Preservation Award Logo"){:height="10%" width="10%"}](https://www.dpconline.org/events/digital-preservation-awards) 
 
-On World Digital Preservation Day 2020, the 2019 Levels of Digital Preservation Working Group became a [Digital Preservation Award](https://www.dpconline.org/events/digital-preservation-awards) winner receiving the [International Council on Archives Award for Collaboration and Cooperation!](https://www.dpconline.org/events/digital-preservation-awards/digital-preservation-awards-2020) This award is not possible without the collaboration of hundreds of people over the course of the project!  Thank you to everyone who participated! 
+On World Digital Preservation Day 2020, the 2019 Levels of Digital Preservation Working Group became a Digital Preservation Award winner receiving the [International Council on Archives Award for Collaboration and Cooperation!](https://www.dpconline.org/events/digital-preservation-awards/digital-preservation-awards-2020) This award is not possible without the collaboration of hundreds of people over the course of the project!  Thank you to everyone who participated! 
 
 <!--### Levels of Preservation Working Group
 This work was done by the Levels of Preservation Working Group.  It is expected that the Levels of Digital Preservation will continue to be updated over time as additional feedback is received, experience is gained implementing its recommendations and as empirical research provides detailed information about data loss. For this reason, each iteration of the Levels will be versioned.
