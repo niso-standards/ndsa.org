@@ -6,7 +6,7 @@ permalink: /groups/levels-of-preservation/draft/
 
 The Levels of Digital Preservation (also referred to as the 'Levels') is a resource to help digital preservation practitioners build or assess their digital preservation program.  Originally created in 2013, Version 2.0 was released in 2019 along with additional supporting documentation and resources. Version 2.1 was released in March of 2026 with a focus on environmental sustainability. Minor edits were made to the supporting resources to reflect this focus.  
 
-All versions of the Levels of Digital Preservation matrix, documentation, and supporting resources are available from the [NDSA Levels of Digital Preservation Project](https://osf.io/rcs38/) in the OSF repository. The direct links provided below go to the most recent version unless otherwise indicated.    
+All versions of the Levels of Digital Preservation matrix, documentation, and supporting resources are available from the [NDSA Levels of Digital Preservation Project](https://osf.io/rcs38/) in the OSF repository. The direct links provided below go to the most recent version unless otherwise indicated. If you are having trouble navigating OSF, this [guidance](https://docs.google.com/document/d/1YUADvWUxi62pmOuft46Gz0Hualca46xfCkFtZqTLvDQ/edit?tab=t.0#heading=h.o8tcbqt7qihu) has been created to assist you as the structure of OSF has changed over time.     
 
 Version 2.1 of the Levels was created by the Levels of Digital Preservation Working Group (2024-2026). For more information, please contact a member of the [Levels Steering Group](/groups/levels-of-preservation/). 
 
