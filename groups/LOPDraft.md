@@ -16,7 +16,7 @@ Version 2.1 of the Levels was created by the Levels of Digital Preservation Work
 ### Levels of Digital Preservation V2.1 Matrix
 The Levels of Digital Preservation Matrix, shown above in color, is available in both color and black and white on the OSF site.    
 * [Levels of Digital Preservation Matrix](https://osf.io/u8m3w/)
-* [Levels of Digital Preservation FAQ](https://docs.google.com/document/d/1jxj7hlV9LNO0grucz88CSyk_WHrc_uAQB-EYJjJvexY/edit?usp=sharing) -- STILL NEED TO UPDATE, have a new doc started, but want to update this one...
+* [Levels of Digital Preservation FAQ](https://docs.google.com/document/d/1jxj7hlV9LNO0grucz88CSyk_WHrc_uAQB-EYJjJvexY/edit?usp=sharing)
 
 ### Implementation Guidelines and Working Definitions
 The Implementation Guidelines provide background information on the Levels of Digital Preservation projects from 2013 and 2018, the thinking of the group on changes that were made, working definitions of terms, and recommendations for implementing the Levels. The Working Definitions provide further explanation on terms used within the matrix and supporting documentation and resources.   
@@ -68,8 +68,6 @@ The following reports describe surveys of users and use cases for Version 1 of t
 ### Previous Versions 
 * Version 1.0: The original [Levels of Digital Preservation](https://osf.io/9ya8c/) (*Proceedings of the Archiving (IS&T) Conference,* April 2013, Washington, DC) are still available for use and reference as needed.  
 * Version 2.0: All products from the 2019 revision of the Levels can be found on the [2019 Levels of Digital Preservation](https://doi.org/10.17605/OSF.IO/QGZ98) project in OSF.  All of the products are listed as "Components" in OSF.  Scroll in this section to find the Matrix, Implementation guide, Working definitions, Assessment Tool and guidance, Curatorial guidance and decision tree, and Teaching and outreach materials.  
-
-
 
 
 ### Award Winners
