@@ -20,8 +20,7 @@ The Levels of Digital Preservation Matrix, shown above in color, is available in
 
 ### Implementation Guidelines and Working Definitions
 The Implementation Guidelines provide background information on the Levels of Digital Preservation projects from 2013 and 2018, the thinking of the group on changes that were made, working definitions of terms, and recommendations for implementing the Levels. The Working Definitions provide further explanation on terms used within the matrix and supporting documentation and resources.   
-* [Guidance for Using the Levels of Digital Preservation: An Overview for v2.1](https://osf.io/4ctsv/)
-* [Working Definitions](https://osf.io/4ctsv)
+* [Implementation Guidelines and Working Definitions](https://osf.io/4ctsv/)
   
 ### Environmental Sustainability Guide
 The Environmental Sustainability Guide is available to help you embed environmental sustainability considerations into digital preservation decision-making when using the Levels to measure and guide your digital preservation strategy. 
