@@ -9,8 +9,9 @@ redirect_from:
 ---
 The Levels of Digital Preservation (also referred to as the 'Levels') is a resource to help digital preservation practitioners build or assess their digital preservation program.  Originally created in 2013, Version 2.0 was released in 2019 along with additional supporting documentation and resources. Version 2.1 was released in March of 2026 with a focus on environmental sustainability. Minor edits were made to the supporting resources to reflect this focus.  
 
-All versions of the Levels of Digital Preservation matrix, documentation, and supporting resources are available from the [NDSA Levels of Digital Preservation Project](https://osf.io/rcs38/) in the OSF repository. The direct links provided below go to the most recent version unless otherwise indicated. If you are having trouble navigating OSF, this [guidance](https://docs.google.com/document/d/1YUADvWUxi62pmOuft46Gz0Hualca46xfCkFtZqTLvDQ/edit?tab=t.0#heading=h.o8tcbqt7qihu) has been created to assist you as the structure of OSF has changed over time.     
+All versions of the Levels of Digital Preservation matrix, documentation, and supporting resources are available from the [NDSA Levels of Digital Preservation Project](https://osf.io/rcs38/) in the OSF repository. The direct links provided below go to the most recent version unless otherwise indicated. **If you are having trouble navigating OSF, this [guidance](https://docs.google.com/document/d/1YUADvWUxi62pmOuft46Gz0Hualca46xfCkFtZqTLvDQ/edit?tab=t.0#heading=h.o8tcbqt7qihu) has been created to assist you as the structure of OSF has changed over time.**     
 
+### Levels of Digital Preservation V2.1
 Version 2.1 of the Levels was created by the Levels of Digital Preservation Working Group (2024-2026). For more information, please contact a member of the [Levels Steering Group](/groups/levels-of-preservation/). 
 
  <img class="img-responsive" class="img-responsive" alt="Levels of Digital Preservation Matrix V2.1" src="{{ '/images//Levels_v2-1.png' | prepend: site.baseurl }}"> 
@@ -21,23 +22,23 @@ The Levels of Digital Preservation Matrix, shown above in color, is available in
 * [Levels of Digital Preservation Matrix](https://osf.io/u8m3w/)
 * [Levels of Digital Preservation FAQ](https://docs.google.com/document/d/1jxj7hlV9LNO0grucz88CSyk_WHrc_uAQB-EYJjJvexY/edit?usp=sharing)
 
-### Implementation Guidelines and Working Definitions
+### Implementation Guidelines and Working Definitions V2.1
 The Implementation Guidelines provide background information on the Levels of Digital Preservation projects from 2013 and 2018, the thinking of the group on changes that were made, working definitions of terms, and recommendations for implementing the Levels. The Working Definitions provide further explanation on terms used within the matrix and supporting documentation and resources.   
 * [Implementation Guidelines and Working Definitions](https://osf.io/4ctsv/)
   
-### Environmental Sustainability Guide
+### Environmental Sustainability Guide V2.1
 The Environmental Sustainability Guide is available to help you embed environmental sustainability considerations into digital preservation decision-making when using the Levels to measure and guide your digital preservation strategy. 
 * [Environmental Sustainability Guide](https://osf.io/yv48k/)
 
-### Assessment Tool
+### Assessment Tool V2.1
 The Assessment Tool is available to help you use the Levels of Digital Preservation to assess your digital preservation program. The spreadsheet template can be downloaded and used to record and visualize your assessment results.  A guidance document is also available and describes how the tool can be used and provides two case studies of the Assessment Tool in use.  
 * [Assessment Tool Documentation and Resources](https://osf.io/gqk6e/)
 
-### Curatorial Guidance
+### Curatorial Guidance V2.1
 A Digital Curation Decision Guide is available that helps form the basis of a series of decision points around collections and the implementation of a preservation strategy. The Guide has both a visual and narrative version to help explore key factors in complex infrastructure and collections management decision-making. 
 * [Digital Curation Decision Guide](https://osf.io/sme83/)
 
-### Training Slide Deck
+### Training Slide Deck V2.0
 A slide deck and accompanying instructions are provided for use if you would like to talk about the Levels of Digital Preservation to an audience. Slides could be used for a full day workshop, a webinar, or just a quick introduction. Instructions are included on which slides may be most useful for each type of presentation, however you are encouraged to use whichever slides work for your purpose or audience.  
 * [Training Slides and Instructions V2.0](https://osf.io/je439/)
 
@@ -54,6 +55,9 @@ Various elements of the Levels have been translated into different languages by 
 * TURKISH: A Turkish translation has been made of the [Matrix V2.0](https://osf.io/c7ge3/) and [Implementation Guide V2.0](https://osf.io/fje6v/).
 * UKRAINIAN: A Ukrainian Translation has been made of the [Matrix V2.0](https://osf.io/3keaj/).
   
+### Navigation in OSF
+All versions of the Levels of Digital Preservation matrix, documentation, and supporting resources are available from the [NDSA Levels of Digital Preservation Project](https://osf.io/rcs38/) in the OSF repository. The direct links provided above go to the most recent version unless otherwise indicated. **If you are having trouble navigating OSF, this [guidance](https://docs.google.com/document/d/1YUADvWUxi62pmOuft46Gz0Hualca46xfCkFtZqTLvDQ/edit?tab=t.0#heading=h.o8tcbqt7qihu) has been created to assist you as the structure of OSF has changed over time.**  
+
 ### Feedback
 It is expected that the Levels of Digital Preservation will continue to be updated over time as additional feedback is received, experience is gained implementing its recommendations, and as good practice evolves.
 

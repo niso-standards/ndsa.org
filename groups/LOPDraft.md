@@ -4,6 +4,10 @@ layout: page
 permalink: /groups/levels-of-preservation/draft/
 ---
 
+<!--THE TEXT BELOW WAS USED FOR DRAFTING THE NEW LEVELS VERSIONS Feel free to uncomment it out and resuse as necessary _ 
+
+
+<!-- 
 The Levels of Digital Preservation (also referred to as the 'Levels') is a resource to help digital preservation practitioners build or assess their digital preservation program.  Originally created in 2013, Version 2.0 was released in 2019 along with additional supporting documentation and resources. Version 2.1 was released in March of 2026 with a focus on environmental sustainability. Minor edits were made to the supporting resources to reflect this focus.  
 
 All versions of the Levels of Digital Preservation matrix, documentation, and supporting resources are available from the [NDSA Levels of Digital Preservation Project](https://osf.io/rcs38/) in the OSF repository. The direct links provided below go to the most recent version unless otherwise indicated. If you are having trouble navigating OSF, this [guidance](https://docs.google.com/document/d/1YUADvWUxi62pmOuft46Gz0Hualca46xfCkFtZqTLvDQ/edit?tab=t.0#heading=h.o8tcbqt7qihu) has been created to assist you as the structure of OSF has changed over time.     
@@ -64,7 +68,7 @@ The following reports describe surveys of users and use cases for Version 1 of t
 * [Preliminary results from the Using the Levels of Preservation Survey](https://osf.io/ythqn/)-->
 
 
-### Previous Versions 
+<!--### Previous Versions 
 * Version 1.0: The original [Levels of Digital Preservation](https://osf.io/9ya8c/) (*Proceedings of the Archiving (IS&T) Conference,* April 2013, Washington, DC) are still available for use and reference as needed.  
 * Version 2.0: All products from the 2019 revision of the Levels can be found on the [2019 Levels of Digital Preservation](https://doi.org/10.17605/OSF.IO/QGZ98) project in OSF.  All of the products are listed as "Components" in OSF.  Scroll in this section to find the Matrix, Implementation guide, Working definitions, Assessment Tool and guidance, Curatorial guidance and decision tree, and Teaching and outreach materials.  
 
