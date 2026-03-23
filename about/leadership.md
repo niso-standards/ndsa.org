@@ -138,20 +138,6 @@ redirect_from: /leadership/
     </div>
 </div>
 
-
-<div class="row coordinating-committee">
-    <div class="col-sm-10">
-        <h3>Sylvia Umana</h3>
-        <p>Sylvia Umana (1st Term, 2025-2027) is a dedicated Digital Collections Librarian at the Namibia University of Science and Technology Library with a deep passion for her role in preserving and managing digital assets. She holds a Master’s degree in Library and Information Science from the University of Namibia in 2020, where her area of research focused on the digital preservation of institutional repositories. In her role as the digital collections’ librarian, Sylvia worked on various digitization projects including collaborations with the National Archives of Namibia and Desert Research Foundation of Namibia. She is committed to advancing her knowledge on active digital preservation, and thus continues to explore as she aims to actively implement these in her organization.
-        </p>
-    </div>
-    <div class="col-sm-2">
-        <img class="img-responsive" alt="Sylvia Umana" src="{{ '/images/coordinating-committee/umana_2025.jpg' | prepend: site.baseurl }}">
-    </div>
-</div>
-
-
-
 <div class="row coordinating-committee">
     <div class="col-sm-10">
         <h3>Jessica Venlet</h3>
@@ -162,13 +148,7 @@ redirect_from: /leadership/
     </div>
 </div>
 
-
-
-
 <h2>Interest and Working Group Chairs</h2>
-
-
-
 
 <div class="row coordinating-committee">
     <div class="col-sm-10">
@@ -199,16 +179,6 @@ redirect_from: /leadership/
         <img class="img-responsive" alt="Elena Colon-Marrero" src="{{ '/images/coordinating-committee/ColonMarrero_2025.jpg' | prepend: site.baseurl }}">
     </div>
 </div>
-
-<!--<div class="row coordinating-committee">
-    <div class="col-sm-10">
-        <h3>Brenda Burk</h3>
-        <p>Brenda Burk (<a href="/groups/content/">Content Interest Group</a> Co-Chair; 1st term, 2020-2022) joined Clemson University Libraries in 2014 as the Head of Special Collections.  As part of the Clemson University Libraries, the Special Collections and Archives houses the University Archives, Records Management, Manuscript Collections, and Rare Books.  Previously she was the Philanthropic Studies Archivist at IUPUI University Library and Public Records Archivist at the Wisconsin Historical Society.  In her current position, she continues to build a premier research collection that supports the university and creates an environment encouraging scholarly inquiry, creative thinking, and lifelong learning.  Her research interests include information-seeking behaviors of users, course-integrated instruction, public awareness and perceptions of archives.  Brenda graduated from the University of Wisconsin-Madison with a BA in History and a MA in Library and Information Studies with an emphasis in archival administration.</p>
-    </div>
-    <div class="col-sm-2">
-        <img class="img-responsive" alt="Brenda Burk" src="{{ '/images/coordinating-committee/Burk2020.jpg' | prepend: site.baseurl }}">
-    </div>
-</div>-->
 
 <div class="row coordinating-committee">
     <div class="col-sm-10">
@@ -433,5 +403,16 @@ redirect_from: /leadership/
     </div>
     <div class="col-sm-2">
         <img class="img-responsive" class="img-responsive" alt="Krista Oldham" src="{{ '/images/coordinating-committee/Oldham2020.jpg' | prepend: site.baseurl }}">
+    </div>
+</div>-->
+
+<!--<div class="row coordinating-committee">
+    <div class="col-sm-10">
+        <h3>Sylvia Umana</h3>
+        <p>Sylvia Umana (1st Term, 2025-2027) is a dedicated Digital Collections Librarian at the Namibia University of Science and Technology Library with a deep passion for her role in preserving and managing digital assets. She holds a Master’s degree in Library and Information Science from the University of Namibia in 2020, where her area of research focused on the digital preservation of institutional repositories. In her role as the digital collections’ librarian, Sylvia worked on various digitization projects including collaborations with the National Archives of Namibia and Desert Research Foundation of Namibia. She is committed to advancing her knowledge on active digital preservation, and thus continues to explore as she aims to actively implement these in her organization.
+        </p>
+    </div>
+    <div class="col-sm-2">
+        <img class="img-responsive" alt="Sylvia Umana" src="{{ '/images/coordinating-committee/umana_2025.jpg' | prepend: site.baseurl }}">
     </div>
 </div>-->
