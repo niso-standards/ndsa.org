@@ -160,7 +160,7 @@ redirect_from: /leadership/
     </div>
 </div>
 
-<div class="row coordinating-committee">
+<!--<div class="row coordinating-committee">
     <div class="col-sm-10">
         <h3>Angela Beking</h3>
         <p>Angela Beking (<a href="/groups/levels-of-preservation/">Levels of Digital Preservation</a> Co-Chair) is the Manager of Information and Data Management Policy at Privy Council Office, Canada. Formerly a Senior Digital Archivist at Library and Archives Canada, Angela's research interests include the alignment of information and data management policies and procedures with those of digital preservation, with an eye to the overall advancement of digital curation.</p>
@@ -168,7 +168,7 @@ redirect_from: /leadership/
     <div class="col-sm-2">
         <img class="img-responsive" alt="Angela Beking" src="{{ '/images/coordinating-committee/BekingA.jpg' | prepend: site.baseurl }}">
     </div>
-</div>
+</div>-->
 
 
 <div class="row coordinating-committee">
@@ -300,7 +300,7 @@ redirect_from: /leadership/
     <p>Julie Shi (Climate Watch Working Group Co-Chair) is the Digital Preservation Librarian at Scholars Portal, a service of the Ontario Council of University Libraries, hosted through the University of Toronto Libraries. In this role, Julie leads the hosted Archivematica service, Permafrost, and cloud storage network, the Ontario Library Research Cloud. She also collaborates closely with other service teams to support preservation for the Trusted Digital Repository of journal articles, Scholars Portal Books platform, national data and institutional repository services, Borealis and Scholaris. Julie holds an MI with a concentration in Library and Information Science from the University of Toronto.</p>
 </div>
     <div class="col-sm-2">
-        <img class="img-responsive" alt="Julie Shi" src="{{ '/images/coordinating-committee/Shi_2026.jpg' | prepend: site.baseurl }}">
+        <img class="img-responsive" alt="Julie Shi" src="{{ '/images/coordinating-committee/Shi_2026.JPG' | prepend: site.baseurl }}">
     </div>
 </div>
 
