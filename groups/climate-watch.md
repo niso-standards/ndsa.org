@@ -22,6 +22,12 @@ Please reach out to Sibyl Schaefer (sschaefer(at)ucsd(dot)edu) if you have quest
 
 - Sibyl Schaefer, Lead Vision and Strategy
 - Julie Shi, Lead Coordinator and Logistics
-- Chelsea Denault 
+- Elena Cordova
+- Chelsea Denault
+- Dianne Dietrich
+- Rachel Jacobson
+- Margaret Kidd
 - Eric Phetteplace
+- Max Prud’homme
+- Melde Rutledge
 

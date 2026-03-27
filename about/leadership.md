@@ -172,6 +172,16 @@ redirect_from: /leadership/
 
 <div class="row coordinating-committee">
     <div class="col-sm-10">
+    <h3>Julie Shi</h3>
+    <p>Julie Shi (Climate Watch Working Group Co-Chair) is the Digital Preservation Librarian at Scholars Portal, a service of the Ontario Council of University Libraries, hosted through the University of Toronto Libraries. In this role, Julie leads the hosted Archivematica service, Permafrost, and cloud storage network, the Ontario Library Research Cloud. She also collaborates closely with other service teams to support preservation for the Trusted Digital Repository of journal articles, Scholars Portal Books platform, national data and institutional repository services, Borealis and Scholaris. Julie holds an MI with a concentration in Library and Information Science from the University of Toronto.</p>
+</div>
+    <div class="col-sm-2">
+        <img class="img-responsive" alt="Julie Shi" src="{{ '/images/coordinating-committee/Shi_2026.jpg' | prepend: site.baseurl }}">
+    </div>
+</div>
+
+<div class="row coordinating-committee">
+    <div class="col-sm-10">
         <h3>Elena Colon-Marrero</h3>
         <p>Elena Colon-Marrero (<a href="/groups/web-archiving/">Web Archiving Survey Working Group</a> Co-Chair) is the Archivist for Digital Curation at the Bentley Historical Library, University of Michigan. She has served in this position since 2021. At the Bentley, she is responsible for the preservation and access to born-digital materials. Previously Elena was the Digital Archivist at the Computer History Museum in Mountain View, California. At the Computer History Museum she was responsible for the preservation of the museum’s historical software collection. Elena is a member of the BitCurator Consortium's (BCC) Executive Council and has served as President of the BCC since 2024.</p>
     </div>
@@ -237,7 +247,7 @@ redirect_from: /leadership/
 <div class="row coordinating-committee">
     <div class="col-sm-10">
         <h3>Matthew McEniry</h3>
-        <p>Matthew McEniry (<a href="/groups/excellence-awards/">Excellence Awards Working Group</a> Co-Chair; 1st term, 2023-2025) is an Associate Librarian and the Director of the Digital Scholarship Lab at the Texas Tech University Libraries. The lab oversees multiple digitization projects including collections from the Southwest Collection/Special Collections Library, the Museum of Texas Tech, and other TTU research centers. He has a decade of experience involving digital stewardship including digitization, preservation, metadata description, and data management. In addition to his contributions to librarianship, he publishes on popular culture, graphic novels, and has presented at the Comic Arts Conference, on a supervillain chapter, at the 2019 San Diego Comic Con.
+        <p>Matthew McEniry (<a href="/groups/excellence-awards/">Excellence Awards Working Group</a> Co-Chair; 1st term, 2023-2025; <a href="/groups/levels-of-preservation/">Levels of Digital Preservation Steering Group</a> Co-Chair, 2026-) is an Associate Librarian and the Director of the Digital Scholarship Lab at the Texas Tech University Libraries. The lab oversees multiple digitization projects including collections from the Southwest Collection/Special Collections Library, the Museum of Texas Tech, and other TTU research centers. He has a decade of experience involving digital stewardship including digitization, preservation, metadata description, and data management. In addition to his contributions to librarianship, he publishes on popular culture, graphic novels, and has presented at the Comic Arts Conference, on a supervillain chapter, at the 2019 San Diego Comic Con.
         </p>
     </div>
     <div class="col-sm-2">
@@ -245,10 +255,7 @@ redirect_from: /leadership/
     </div>
 </div>
 
-
-
-
-<div class="row coordinating-committee">
+<!--<div class="row coordinating-committee">
     <div class="col-sm-10">
         <h3>Jen Mitcham</h3>
         <p>Jen Mitcham (Levels of Digital Preservation Co-Chair) is Head of Good Practice and Standards at the Digital Preservation Coalition (DPC), an international membership organization with charitable status based in the UK. In her role at the DPC, Jenny is responsible for promoting and maintaining the DPC's maturity model for digital preservation the Rapid Assessment Model (DPC RAM) and leads a digital preservation project with the UK's Nuclear Decommissioning Authority. She has recently led the DPC's taskforce on EDRMS preservation which has resulted in the publication of an online resource. She is involved in the organization of events and commissioning publications on digital preservation issues and provides support to DPC Members in a variety of different areas. Jenny was previously a digital archivist at the Archaeology Data Service and the University of York and has been working in the field of digital preservation since 2003. She has been involved in several initiatives with the NDSA over the last few years, including the revision of the NDSA Levels of Preservation and the 2021 Fixity Survey.</p>
@@ -256,7 +263,7 @@ redirect_from: /leadership/
     <div class="col-sm-2">
         <img class="img-responsive" alt="Jen Mitcham" src="{{ '/images/coordinating-committee/Mitcham2022.jpg' | prepend: site.baseurl }}">
     </div>
-</div>
+</div>-->
 
 <div class="row coordinating-committee">
     <div class="col-sm-10">
