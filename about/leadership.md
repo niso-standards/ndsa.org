@@ -170,15 +170,6 @@ redirect_from: /leadership/
     </div>
 </div>
 
-<div class="row coordinating-committee">
-    <div class="col-sm-10">
-    <h3>Julie Shi</h3>
-    <p>Julie Shi (Climate Watch Working Group Co-Chair) is the Digital Preservation Librarian at Scholars Portal, a service of the Ontario Council of University Libraries, hosted through the University of Toronto Libraries. In this role, Julie leads the hosted Archivematica service, Permafrost, and cloud storage network, the Ontario Library Research Cloud. She also collaborates closely with other service teams to support preservation for the Trusted Digital Repository of journal articles, Scholars Portal Books platform, national data and institutional repository services, Borealis and Scholaris. Julie holds an MI with a concentration in Library and Information Science from the University of Toronto.</p>
-</div>
-    <div class="col-sm-2">
-        <img class="img-responsive" alt="Julie Shi" src="{{ '/images/coordinating-committee/Shi_2026.jpg' | prepend: site.baseurl }}">
-    </div>
-</div>
 
 <div class="row coordinating-committee">
     <div class="col-sm-10">
@@ -299,6 +290,17 @@ redirect_from: /leadership/
     </div>
     <div class="col-sm-2">
         <img class="img-responsive" alt="Sibyl Schaefer" src="{{ '/images/coordinating-committee/Schaefer.jpg' | prepend: site.baseurl }}">
+    </div>
+</div>
+
+
+<div class="row coordinating-committee">
+    <div class="col-sm-10">
+    <h3>Julie Shi</h3>
+    <p>Julie Shi (Climate Watch Working Group Co-Chair) is the Digital Preservation Librarian at Scholars Portal, a service of the Ontario Council of University Libraries, hosted through the University of Toronto Libraries. In this role, Julie leads the hosted Archivematica service, Permafrost, and cloud storage network, the Ontario Library Research Cloud. She also collaborates closely with other service teams to support preservation for the Trusted Digital Repository of journal articles, Scholars Portal Books platform, national data and institutional repository services, Borealis and Scholaris. Julie holds an MI with a concentration in Library and Information Science from the University of Toronto.</p>
+</div>
+    <div class="col-sm-2">
+        <img class="img-responsive" alt="Julie Shi" src="{{ '/images/coordinating-committee/Shi_2026.jpg' | prepend: site.baseurl }}">
     </div>
 </div>
 
