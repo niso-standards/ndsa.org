@@ -184,7 +184,7 @@ redirect_from: /leadership/
 <div class="row coordinating-committee">
     <div class="col-sm-10">
         <h3>Jacqueline Devereaux</h3>
-        <p>Jacqueline Devereaux (<a href="/groups/levels-of-preservation/">Levels of Digital Preservation Steering Group</a> Co-Chair, 2026-) is the Curator of Born Digital Special Collections at Vanderbilt University in Nashville, Tennessee. At Vanderbilt, she oversees the website archiving program, born digital ingest and processing, and training fellow library staff members. Her interests include digital preservation advocacy and engaging K-12 students in archives. Previously, she worked in museums, taught 4th grade social studies, and researched informal memory keeping strategies in theme parks. 
+        <p>Jacqueline Devereaux (<a href="/groups/levels-of-preservation/">Levels of Digital Preservation Steering Group</a> Co-Chair, 2026-) is the Curator of Born Digital Special Collections at Vanderbilt University in Nashville, Tennessee. At Vanderbilt, she oversees the website archiving program, born digital ingest and processing, and training fellow library staff members. Her interests include digital preservation advocacy and engaging K-12 students in archives. Previously, she worked in museums, taught 4th grade social studies, and researched informal memory keeping strategies in theme parks.</p> 
     </div>
     <div class="col-sm-2">
         <img class="img-responsive" alt="Jacqueline Devereaux" src="{{ '/images/coordinating-committee/Devereaux.jpg' | prepend: site.baseurl }}">
