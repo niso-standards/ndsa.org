@@ -183,6 +183,16 @@ redirect_from: /leadership/
 
 <div class="row coordinating-committee">
     <div class="col-sm-10">
+        <h3>Jacqueline Devereaux</h3>
+        <p>Jacqueline Devereaux (<a href="/groups/levels-of-preservation/">Levels of Digital Preservation Steering Group</a> Co-Chair, 2026-) is the Curator of Born Digital Special Collections at Vanderbilt University in Nashville, Tennessee. At Vanderbilt, she oversees the website archiving program, born digital ingest and processing, and training fellow library staff members. Her interests include digital preservation advocacy and engaging K-12 students in archives. Previously, she worked in museums, taught 4th grade social studies, and researched informal memory keeping strategies in theme parks. 
+    </div>
+    <div class="col-sm-2">
+        <img class="img-responsive" alt="Jacqueline Devereaux" src="{{ '/images/coordinating-committee/Devereaux.jpg' | prepend: site.baseurl }}">
+    </div>
+</div>
+
+<div class="row coordinating-committee">
+    <div class="col-sm-10">
         <h3>Michael Dulock</h3>
         <p>Michael Dulock (<a href="/groups/standards-and-practices/">Standards and Practices Interest Group</a> Co-Chair; 1st term, 2023-2025) is the Digital Asset Librarian and Head of Digital Asset Management and Production Services at the University of Colorado Boulder. He has worked with digital collections at CUB for over eighteen years, including stints as Metadata Librarian and Interim Head of Libraries Information Technology. He oversees two digitization labs encompassing static imaging and audio/video/film conversion, and is responsible for storage and preservation of CUB Libraries’ digital collections as well as parts of the digital library. He has led efforts to build out and expand the two digitization labs to increase capacity and the variety of materials they could handle, as well as dozens projects creating digital collections comprising images, text, audio, video, film, and three-dimensional objects. He has published on agile project management techniques in digital initiatives and linked data for subjects headings, among other topics. In addition to his work with NDSA, he has served on committees at the American Libraries Association and the Visual Resources Association, and currently serves on several groups at the Academic Preservation Trust (APTrust). Michael has a BA and MA in Classics from the University of Colorado Boulder, and an MLS from Drexel University. Take a look at his <a href="https://ark.colorado.edu/ark:/47540/jk7j2m14f6ws">favorite item </a> from all of his many digitization projects.</p>
     </div>
