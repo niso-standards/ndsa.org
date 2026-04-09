@@ -21,7 +21,7 @@ The NDSA Coordinating Committee voted on new members in the March 2026 Leadershi
 
 Updates to the content and infrastructure of the NDSA website continue. If you see any broken links or other errors, please report those to the chairs of the [Communications and Publications Working Group](https://ndsa.org/groups/communications-publications/).
 
-## Nonprofit Incorporation
+### Nonprofit Incorporation
 
 NDSA continues to work with our partners at NISO to formally incorporate the organization as a nonprofit. This work is ongoing as members of the NDSA Leadership Team meet with recommended professionals to work through this process.
 
