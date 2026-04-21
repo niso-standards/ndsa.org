@@ -295,6 +295,16 @@ redirect_from: /leadership/
 
 <div class="row coordinating-committee">
     <div class="col-sm-10">
+        <h3>Tabitha Samuel</h3>
+        <p>Tabitha Y. Samuel (<a href="/conference/">DigiPres 2026 Conference Planning Committee</a> Co-Chair) is the Digital Archivist for the Waring Historical Library, the rare books and special collections library of the Medical University of South Carolina (MUSC) in Charleston. As Digital Archivist, she manages the Waring Historical Library digital collections program and MUSC’s institutional repository. She has also served as a member of the 2025 DigiPres Planning Committee and as the Digital Preservation Curriculum Advisor for Digital POWRR (2022-2024).</p>
+    </div>
+    <div class="col-sm-2">
+        <img class="img-responsive" alt="Tabitha Samuel" src="{{ '/images/coordinating-committee/Samuel.jpg' | prepend: site.baseurl }}">
+    </div>
+</div>
+
+<div class="row coordinating-committee">
+    <div class="col-sm-10">
         <h3>Sibyl Schaefer</h3>
         <p>Sibyl Schaefer (<a href="/groups/climate-watch/">Climate Watch Working Group</a> Co-Chair) is the Chronopolis Program Manager and Digital Preservation Librarian at the University of California, San Diego, where she helps define long-term digital preservation solutions for the UCSD campus. She previously served as the Head of Digital Programs for the Rockefeller Archive Center and as the Metadata Librarian for the University of Vermont's Center for Digital Initiatives. She has been recognized as an Emerging Leader by the American Library Association and has participated in the Archival Leadership Institute. Schaefer holds an MLIS with a specialization in Archival Studies from the University of California, Los Angeles.</p>
     </div>
