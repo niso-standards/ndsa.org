@@ -33,15 +33,15 @@ redirect_from: /leadership/
 <p>A larger Leadership Transition Team, made up of members of the NDSA Leadership group, has been formed and is managing the additional details required while NDSA changes host organizations. The Leadership Transition Team incudes: Stacey Jones (co-chair), Matthew McEniry (co-chair), John Dewees, Ann Hanlon, Grete Graf, Carol Kussmann, Dan Noonan, Bethany Scott, and Danielle Taylor.</p>
 
 
-<h2>Host Organization</h2>
-<p>NDSA derives its administrative and financial support through a Host Organization. The Host Organization:</p>
+<h2>Partner Organization</h2>
+<p>NDSA derives its administrative and financial support through a Partner Organization. The Partner Organization:</p>
 <ul>
     <li>Provides a membership mechanism, coordination, and support for the NDSA organization.</li>
     <li>Provides outreach and communication frameworks to NDSA leadership, which may be used to inform the broader digital preservation community about NDSA activities, events, and products.</li>
-    <li>Represents the NDSA organization with a distinct and branded web presence.</li>
+    <!--<li>Represents the NDSA organization with a distinct and branded web presence.</li>
     <li>Supports the work of the NDSA Coordinating Committee and provides one voting member of the leadership in conjunction with elected members of the CC.</li>
     <li>Supports and coordinates the execution of an annual NDSA conference.</li>
-    <li>Commits to a 3-year (renewable) term as NDSA host organization.</li>
+    <li>Commits to a 3-year (renewable) term as NDSA host organization.</li>-->
 </ul>
 
 <p></p>
@@ -118,15 +118,6 @@ redirect_from: /leadership/
     </div>
 </div>-->
 
-<div class="row coordinating-committee">
-    <div class="col-sm-10">
-        <h3>Bethany Scott</h3>
-        <p>Bethany Scott (1st term, 2023-2025) is the Head of Preservation Imaging at Yale University Library. In this role she provides vision, leadership, and strategic direction for high-end scanning and photography at Yale Library and oversees in-house imaging services that meet the Library’s preservation goals and increase online access to collections. Her areas of expertise include digital preservation, born-digital archives, scanning and imaging, and reuse of archival metadata. She served as Chair of the NDSA Coordinating Committee in 2024.</p>
-    </div>
-    <div class="col-sm-2">
-        <img class="img-responsive" alt="Bethany Scott" src="{{ '/images/coordinating-committee/Scott2023.jpg' | prepend: site.baseurl }}">
-    </div>
-</div>
 
 <div class="row coordinating-committee">
     <div class="col-sm-10">
@@ -256,6 +247,19 @@ redirect_from: /leadership/
     </div>
 </div>
 
+<div class="row coordinating-committee">
+    <div class="col-sm-10">
+        <h3>Kathryn Michaelis </h3>
+        <p>Kathryn Michaelis (<a href="/conference/">DigiPres 2026 Conference Planning Committee</a> Co-Chair) is the Digital Preservation Program Manager for Emory University Libraries. She has been an active member of NDSA since 2019 and has served on NDSA committees including the Communications and Publications Working Group, the Events Strategy Working Group, and the Fixity Working Group. Kathryn holds an MSLS from UNC-Chapel Hill and previously worked for Georgia State University and the University of Mississippi.
+        </p>
+    </div>
+    <div class="col-sm-2">
+        <img class="img-responsive" alt="athryn Michaelis" src="{{ '/images/coordinating-committee/Michaelis2026.jpg' | prepend: site.baseurl }}">
+    </div>
+</div>
+
+
+
 <!--<div class="row coordinating-committee">
     <div class="col-sm-10">
         <h3>Jen Mitcham</h3>
@@ -310,6 +314,16 @@ redirect_from: /leadership/
     </div>
     <div class="col-sm-2">
         <img class="img-responsive" alt="Sibyl Schaefer" src="{{ '/images/coordinating-committee/Schaefer.jpg' | prepend: site.baseurl }}">
+    </div>
+</div>
+
+<div class="row coordinating-committee">
+    <div class="col-sm-10">
+        <h3>Bethany Scott</h3>
+        <p>Bethany Scott (<a href="/groups/membership/">Membership Working Group</a> Co-Chair) is the Head of Preservation Imaging at Yale University Library. In this role she provides vision, leadership, and strategic direction for high-end scanning and photography at Yale Library and oversees in-house imaging services that meet the Library’s preservation goals and increase online access to collections. Her areas of expertise include digital preservation, born-digital archives, scanning and imaging, and reuse of archival metadata. She served as Chair of the NDSA Coordinating Committee in 2024.</p>
+    </div>
+    <div class="col-sm-2">
+        <img class="img-responsive" alt="Bethany Scott" src="{{ '/images/coordinating-committee/Scott2023.jpg' | prepend: site.baseurl }}">
     </div>
 </div>
 
