@@ -254,11 +254,9 @@ redirect_from: /leadership/
         </p>
     </div>
     <div class="col-sm-2">
-        <img class="img-responsive" alt="athryn Michaelis" src="{{ '/images/coordinating-committee/Michaelis2026.jpg' | prepend: site.baseurl }}">
+        <img class="img-responsive" alt="Kathryn Michaelis" src="{{ '/images/coordinating-committee/Michaelis2026.jpeg' | prepend: site.baseurl }}">
     </div>
 </div>
-
-
 
 <!--<div class="row coordinating-committee">
     <div class="col-sm-10">
