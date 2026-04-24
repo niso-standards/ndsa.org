@@ -12,18 +12,17 @@ The Fixity Working Group kicked off it's most recent work in March of 2025 and p
 ## Contact Us
 While the most recent survey work is complete, if you have any questions or are interested in working on the next iteration of this survey in a few years, please contact NDSA Leadership at ndsa[dot]digipres[@]gmail[dot]com.
 
+## 2025 Fixity Survey Report Published
+The **[2025 Fixity Survey Report](https://osf.io/ts54p/overview)** and related documentation can be found on the NDSA OSF page. 
 
 ## 2025 Activities and Products
-The 2025 Fixity Working group will:
+The 2025 Fixity Working group:
 - Reviewed the 2021 Fixity Survey report and survey questions
 - Developed a set of survey questions for 2025
 - Deployed the 2025 survey
 - Reviewed and analyzed the results of the survey
 - Wrote a final report based off of the 2025 survey responses
 - Shared the report, codebook, data, and crosswalk between survey questions across the years
-
-The [2025 Fixity Survey Report](https://osf.io/ts54p/overview) and related documentation can be found on the NDSA OSF page. 
-  
 
 ## 2025 Working Group Members
 - Carol Kussmann (co-chair)
