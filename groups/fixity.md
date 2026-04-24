@@ -7,18 +7,22 @@ redirect_from: /fixity/
 
 The Fixity Working Group was originally established May 31, 2016 as a joint collaboration of the [Standards & Practices Interest Group](http://ndsa.org/working-groups/standards-and-practices/) and the [Infrastructure Interest Group](http://ndsa.org/working-groups/infrastructure/) in order to move forward with reccomendations from the [Fixity Guidance Report](http://ndsa.org/documents/NDSA-Fixity-Guidance-Report-final100214.pdf) and the [NDSA National Agenda](http://ndsa.org/national-agenda/). The Fixity Working Group created the Fixity Survey as a way to address the "... clear need for use-case driven examples of best practices for fixity in particular system designs and configurations established to meet particular preservation requirements" raised in the 2015 NDSA National Agenda.  The survey set a baseline for activities being done in 2016.  Future work will build off of these initial results and work towards developing longitudinal studies.   
 
-The Fixity Working Group kicked off it's most recent work in March of 2025.   
+The Fixity Working Group kicked off it's most recent work in March of 2025 and published the report summarizing the results in April of 2026.   
 
-<!--## Contact Us
-While the most recent survey work is complete, if you have any questions or are interested in working on the next iteration of this survey in a few years, please contact the Fixity Working Group at NDSA-Fixity [@] lists [dot] clir [dot] org.  -->
+## Contact Us
+While the most recent survey work is complete, if you have any questions or are interested in working on the next iteration of this survey in a few years, please contact NDSA Leadership at ndsa[dot]digipres[@]gmail[dot]com.
+
 
 ## 2025 Activities and Products
 The 2025 Fixity Working group will:
-- Review the 2021 Fixity Survey report and survey questions
-- Develop a set of survey questions for 2025
-- Deploy the 2025 survey
-- Review and analyze the results of the survey
-- Write a final report based off of the 2025 survey responses
+- Reviewed the 2021 Fixity Survey report and survey questions
+- Developed a set of survey questions for 2025
+- Deployed the 2025 survey
+- Reviewed and analyzed the results of the survey
+- Wrote a final report based off of the 2025 survey responses
+- Shared the report, codebook, data, and crosswalk between survey questions across the years
+
+The [2025 Fixity Survey Report](https://osf.io/ts54p/overview) and related documentation can be found on the NDSA OSF page. 
   
 
 ## 2025 Working Group Members
