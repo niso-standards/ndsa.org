@@ -3,7 +3,7 @@ title: Events Steering Committee and Working Groups
 layout: page
 permalink: /groups/events-steering/
 ---
-Group Chairs: Margo Padilla (margo [dot] padilla [at] berkeley [dot] edu) and Chelsea Denault (denaultc [at] mcls [dot] org)
+**Event Steering Committee co-chairs**: Margo Padilla (margo [dot] padilla [at] berkeley [dot] edu) and Chelsea Denault (denaultc [at] mcls [dot] org)
 
 The Events Steering Committee (ESC) is a standing committee responsible for the strategic oversight, planning, and continuous improvement of all NDSA events and programming. Building upon the foundational work of the Events Strategy Working Group (2024-2025), the ESC will ensure consistent, high-quality, and community-driven opportunities for engagement, information sharing, and professional development in digital preservation.
 
