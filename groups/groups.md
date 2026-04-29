@@ -39,7 +39,7 @@ Working Groups are created on an as needed basis.  Once formed, groups may perfo
 #### [Conference Planning Program Committee](/conference/) (annually)
 - Working to plan all aspects of the DigiPres Conference.  Including: choosing theme, reviewing conference proposals, selecting keynotes and more.
 
-#### [Events Steering](/groups/event-strategy/) (ongoing)
+#### [Events Steering](/groups/events-steering/) (ongoing)
 - Responsible for the strategic oversight, planning, and continuous improvement of all NDSA events and programming. The group works to ensure consistent, high-quality, and community-driven opportunities for engagement, information sharing, and professional development in digital preservation.
   
 #### [Excellence Awards](/groups/excellence-awards/) (biennially)
