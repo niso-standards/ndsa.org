@@ -4,10 +4,7 @@ layout: page
 permalink: /conference/
 redirect_from: /meetings/
 ---
-<!--
-<img alt="meetings" width="820" height="400" class="center" src='{{ "/images/conferences/2025NDSABannerImage.jpg"  | prepend: site.baseurl }}'>
-<!--<img alt="meetings" width="820" height="400" class="center" src='{{ "/images/conferences/DigiPres2023.png"  | prepend: site.baseurl }}'>-->
-
+<img alt="meetings" width="820" height="400" class="center" src='{{ "/images/conferences/DigiPres2026_banner.jpg"  | prepend: site.baseurl }}'>
 
 ### About the NDSA and Digital Preservation 2025 (Virtual)
 The NDSA is a consortium of [{{ site.data.members.count }} organizations](/membership/members/) committed to the long-term preservation and stewardship of digital information and cultural heritage, for the benefit of present and future generations. The NDSA strives to create a safe, accessible, welcoming, and inclusive event, and operates under the [NDSA Code of Conduct](https://ndsa.org/about/code-of-conduct/).
