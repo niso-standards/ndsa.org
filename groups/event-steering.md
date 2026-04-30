@@ -1,5 +1,5 @@
 ---
-title: Events Steering Committee and Working Groups
+title: Events Steering Committee
 layout: page
 permalink: /groups/events-steering/
 ---
