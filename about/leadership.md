@@ -100,7 +100,7 @@ redirect_from: /leadership/
 <div class="row coordinating-committee">
     <div class="col-sm-10">
         <h3>Margo Padilla</h3>
-        <p>Margo Padilla (1st term, 2025-2027) is the Digital Preservation Librarian at New York University where she unifies strategies and processes across the Division of Libraries to facilitate the preservation of digital resources. Prior to NYU, she was the Digital Archivist at the New-York Historical Society where she led the development of infrastructure for collecting, preserving, and providing access to born-digital collections. Margo recently served as a member of the National Best Practices for Archival Accessioning Working Group born-digital accessioning and digital preservation subgroup, and previously participated in Collective Responsibility: National Forum on Labor Practices for Grant-Funded Digital Positions.
+        <p>Margo Padilla (1st term, 2025-2027) is Project Manager for the Digital Lifecycle Program at the University of California, Berkeley, where she coordinates cross-departmental teams and leads projects supporting the creation, preservation, and access of the Library’s digital collections. Prior to joining UC Berkeley, she was the Digital Preservation Librarian at New York University, where she developed strategies and practices to advance the preservation of digital resources. Margo has contributed to national efforts in the field, including serving on the born-digital accessioning and digital preservation subgroup of the National Best Practices for Archival Accessioning Working Group, and participating in Collective Responsibility: National Forum on Labor Practices for Grant-Funded Digital Positions. Margo received her MLIS with a concentration in Management, Digitization, and Preservation of Cultural Heritage and Records from San José State University and her undergraduate degree from the University of California, Berkeley.
         </p>
     </div>
     <div class="col-sm-2">
@@ -280,9 +280,15 @@ redirect_from: /leadership/
     </div>
 </div>
 
-
 <div class="row coordinating-committee">
-   
+   <div class="col-sm-10">
+        <h3>Margo Padilla</h3>
+        <p>Margo Padilla (<a href="/groups/events-steering/">Events Steering Committee</a> Chair) is Project Manager for the Digital Lifecycle Program at the University of California, Berkeley, where she coordinates cross-departmental teams and leads projects supporting the creation, preservation, and access of the Library’s digital collections. Prior to joining UC Berkeley, she was the Digital Preservation Librarian at New York University, where she developed strategies and practices to advance the preservation of digital resources. Margo has contributed to national efforts in the field, including serving on the born-digital accessioning and digital preservation subgroup of the National Best Practices for Archival Accessioning Working Group, and participating in Collective Responsibility: National Forum on Labor Practices for Grant-Funded Digital Positions. Margo received her MLIS with a concentration in Management, Digitization, and Preservation of Cultural Heritage and Records from San José State University and her undergraduate degree from the University of California, Berkeley.
+        </p>
+    </div>
+    <div class="col-sm-2">
+        <img class="img-responsive" class="img-responsive" alt="Margo Padilla" src="{{ '/images/coordinating-committee/Padilla_2025.jpg' | prepend: site.baseurl }}">
+    </div>
 </div>
 
 <div class="row coordinating-committee">
