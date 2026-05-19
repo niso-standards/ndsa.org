@@ -53,7 +53,7 @@ All submissions will be peer-reviewed by NDSA’s Digital Preservation 2026 Prog
 - They may recommend the proposal for presentation as a lightning talk.
 
 ## Submit your Proposal
-**[Submit your proposal](https://docs.google.com/forms/d/e/1FAIpQLScl41ofGogIb1FCs1ZIPnb9ENC2-gxpqFWBuiJs65NSL5rDbQ/viewform?usp=sharing&ouid=118333939818000509796)** now. The submission deadline is **July 1, 2026 at 11:59 p.m.** Eastern Time.
+**[Submit your proposal](https://docs.google.com/forms/d/e/1FAIpQLScl41ofGogIb1FCs1ZIPnb9ENC2-gxpqFWBuiJs65NSL5rDbQ/viewform?usp=sharing&ouid=118333939818000509796){:target="_blank"}** now. The submission deadline is **July 1, 2026 at 11:59 p.m.** Eastern Time.
 
 Presenters will be notified of their acceptance **starting in late July**. All presentations must be recorded for playback during the conference. Presenters should be available for a live question and answer period during the scheduled session time. Presenters will receive support in the form of tutorials, resources, and individual assistance. 
 
