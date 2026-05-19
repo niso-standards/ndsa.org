@@ -94,7 +94,7 @@ Dr. Lee will give their keynote talk, "Kairotic and Kin-centric Archives: Addres
 
 ## 2026 DigiPres Organizing Committee
 - **Kathryn Michaelis**, Emory University (Co-Chair)
-- **Tabitha Samuels**, Medical University of South Carolina (Co-Chair)
+- **Tabitha Samuel**, Medical University of South Carolina (Co-Chair)
 - Alisha Baginski, University of Nebraska-Lincoln
 - Amber Bales, Ohio State University
 - Annalise Berdini, Princeton University
