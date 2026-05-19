@@ -45,6 +45,7 @@ We invite presentations that relate to the conference theme. Possible topics inc
 - All submissions are under a [CC-BY 4.0 license](https://creativecommons.org/licenses/by/4.0/), which allows for sharing and adaptation of content but requires appropriate credit and an indication of any changes made by others. Presenters must agree to share their work under this license in the submission form. After DigiPres 2026, works will be uploaded to NDSA’s YouTube channel and made available for viewing.
 
 **Evaluation Criteria**
+
 All submissions will be peer-reviewed by NDSA’s Digital Preservation 2026 Program Committee. The DigiPres Planning Committee will give strong preference to programming that is fully inclusive and reflects a wide range of expression and identity. When evaluating proposals, the Planning Committee will:
 - Consider the contribution of the submission to the overall conference program,
 - Recommend the proposal on a scale of 1-5 whether to reject or accept the proposal, and 
@@ -52,8 +53,7 @@ All submissions will be peer-reviewed by NDSA’s Digital Preservation 2026 Prog
 - They may recommend the proposal for presentation as a lightning talk.
 
 ## Submit your Proposal
-**[Submit your proposal](https://docs.google.com/forms/d/e/1FAIpQLScl41ofGogIb1FCs1ZIPnb9ENC2-gxpqFWBuiJs65NSL5rDbQ/viewform?usp=sharing&ouid=118333939818000509796)** now
-- The submission deadline is **July 1, 2026 at 11:59 p.m.** Eastern Time. -->
+**[Submit your proposal](https://docs.google.com/forms/d/e/1FAIpQLScl41ofGogIb1FCs1ZIPnb9ENC2-gxpqFWBuiJs65NSL5rDbQ/viewform?usp=sharing&ouid=118333939818000509796)** now. The submission deadline is **July 1, 2026 at 11:59 p.m.** Eastern Time.
 
 Presenters will be notified of their acceptance **starting in late July**. All presentations must be recorded for playback during the conference. Presenters should be available for a live question and answer period during the scheduled session time. Presenters will receive support in the form of tutorials, resources, and individual assistance. 
 
