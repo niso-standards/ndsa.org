@@ -6,7 +6,7 @@ redirect_from: /meetings/
 ---
 <img alt="meetings" width="820" height="400" class="center" src='{{ "/images/conferences/DigiPres2026_banner.jpg"  | prepend: site.baseurl }}'>
 
-### About the NDSA and Digital Preservation 2025 (Virtual)
+### About the NDSA and Digital Preservation 2026 (Virtual)
 The NDSA is a consortium of [{{ site.data.members.count }} organizations](/membership/members/) committed to the long-term preservation and stewardship of digital information and cultural heritage, for the benefit of present and future generations. The NDSA strives to create a safe, accessible, welcoming, and inclusive event, and operates under the [NDSA Code of Conduct](https://ndsa.org/about/code-of-conduct/).
 
 <!--### Registration, Logistics, & Accommodations
@@ -18,7 +18,7 @@ Conference details are available on the [DLF Forum website](https://forum2023.di
 Digital Preservation 2026 will be held virtually on November 4-5, 2026, times forthcoming. <!--from 11:00 am EDT to 4:45 EDT on both days.--> 
 
 ### Call for Proposals
-The 2026 Digital Preservation Call for Proposals is now open. For more information or to submit a proposal, **visit the [conference proposal webpage](https://ndsa.org/conference/digital-preservation-virtual-2026/cfp/)**. Presenters will be notified of their acceptance in late July.-->
+The 2026 Digital Preservation Call for Proposals is now open. For more information or to submit a proposal, **visit the [conference proposal webpage](https://ndsa.org/conference/digital-preservation-virtual-2026/cfp/)**. Presenters will be notified of their acceptance in late July.
 
 
 <!--Please see this [schedule](https://ndsa.org/documents/NDSA_2025_DigiPres_Conference_Schedule.pdf) for information on accepted conference presentations and lightning talks.-->
