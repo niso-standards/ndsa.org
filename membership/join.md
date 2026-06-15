@@ -48,7 +48,7 @@ Voting (done by the authorized signatory representative only)
 Participants from member organizations share in the advantages of the NDSA, including:
 - Learning about and contributing to digital preservation practices through community knowledge-sharing with active practitioners. 
 - Having decision-making power at the Working Group and Interest Group level, e.g., deciding on work plans and work products.
-- Participating and shaping NDSA initiatives, such as the [Levels of Preservation](/activities/levels-of-digital-preservation/) and the [NDSA Agenda](/national-agenda/).  
+- Participating and shaping NDSA initiatives, such as the [Levels of Preservation](/activities/levels-of-digital-preservation/).  
 - Taking part in outreach and advocacy to build public awareness around digital preservation.
 - Partnering with major organizations, including premier cultural heritage institutions and nonprofit organizations.
 - Help develop community based, durable solutions to a dynamically changing preservation landscape. 
