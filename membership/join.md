@@ -7,7 +7,7 @@ redirect_from:
   - /join
   - /join/
 ---
-**Ready to join** the NDSA? Please submit a brief **[membership application](https://docs.google.com/forms/d/1hcndPYdqRjcTyaq0dP3uZZzg2nKG35mC6xUZIBl9e_U/viewform)** ([PDF preview](/documents/ndsaMembershipApplication_2021-09-27.pdf)). More information about the Membership application process is shared below.  
+**Ready to join** the NDSA? Please submit a brief **[membership application](https://forms.gle/i62LxTndEv5TrAZ77)** ([PDF preview](/documents/NDSA_2026_MembershipApplicationForm.pdf)). More information about the Membership application process is shared below.  
 ## Membership Information
 NDSA member organizations are committed to long-term digital stewardship. Individuals from member organizations share expertise, tools, and practices to benefit local efforts while contributing to the stewardship of a growing collective collection of diverse digital content. Our members collaborate in many ways that benefit the digital preservation community and their organizations. NDSA depends on members contributing their efforts in a variety of ways such as participation in our Interest and Working Groups, in order to develop, expand, and share their knowledge and expertise. Learn more [about the NDSA](/about/).
 
@@ -54,12 +54,12 @@ Participants from member organizations share in the advantages of the NDSA, incl
 - Help develop community based, durable solutions to a dynamically changing preservation landscape. 
   
 ## Join the NDSA
-**Ready to become an NDSA member?** Please submit a brief [ application](https://docs.google.com/forms/d/1hcndPYdqRjcTyaq0dP3uZZzg2nKG35mC6xUZIBl9e_U/viewform) on behalf of your organization.
+**Ready to become an NDSA member?** Please submit a brief [application](https://forms.gle/i62LxTndEv5TrAZ77) on behalf of your organization.
 
 ### Membership Application Process
 NDSA membership applications are **reviewed quarterly** using the following process:
 
-1. Prospective members submit an application through the [online form](https://docs.google.com/forms/d/e/1FAIpQLScAtyX61Rmnp0uxB7daaqnKEVSbgip2C7nO92C9Ybzox7LpEw/viewform).
+1. Prospective members submit an application through the [online form](https://forms.gle/i62LxTndEv5TrAZ77).
 2. A representative of the Membership Group sends an email to the contacts listed in the application confirming receipt of application. 
 3. Applications are reviewed by the [Coordinating Committee](https://ndsa.org/about/leadership/) during a quarterly membership application review call. Any objections/concerns are discussed and applicants may be contacted if additional information is needed. If necessary, CC members conduct a vote.
    - If approved, a representative of the Membership Group
