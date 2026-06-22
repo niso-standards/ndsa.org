@@ -18,7 +18,7 @@ Conference details are available on the [DLF Forum website](https://forum2023.di
 Digital Preservation 2026 will be held virtually on November 4-5, 2026, times forthcoming. <!--from 11:00 am EDT to 4:45 EDT on both days.--> 
 
 ### Call for Proposals
-The 2026 Digital Preservation Call for Proposals is now open. For more information or to submit a proposal, **visit the [conference proposal webpage](https://ndsa.org/conference/digital-preservation-virtual-2026/cfp/)**. Presenters will be notified of their acceptance in late July.
+The 2026 Digital Preservation Call for Proposals is now open. For more information or to submit a proposal, **visit the [conference proposal webpage](https://ndsa.org/conference/digital-preservation-virtual-2026/cfp/)**.  The submission deadline is July 1, 2026 at 11:59 p.m. Eastern Time. Presenters will be notified of their acceptance in late July.
 
 
 <!--Please see this [schedule](https://ndsa.org/documents/NDSA_2025_DigiPres_Conference_Schedule.pdf) for information on accepted conference presentations and lightning talks.-->
