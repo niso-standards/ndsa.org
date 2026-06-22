@@ -11,7 +11,7 @@ Last updated 4/30/2026
   
  <!--* The [Membership Working Group](https://ndsa.org/groups/membership/) is looking for one additional member to join thier team. Please reach out to one of the co-chairs listed on the Membership Working Group webpage to express interest or ask questions.  -->  
  
- * The [Events Strategy Committee](https://ndsa.org/groups/events-steering/) is soliciting 1-2 new group members. Please reach out to the co-chairs listed on the Membership Working Group webpage to express interest or ask questions. 
+ <!--* The [Events Strategy Committee](https://ndsa.org/groups/events-steering/) is soliciting 1-2 new group members. Please reach out to the co-chairs listed on the Membership Working Group webpage to express interest or ask questions. -->
   
  * The longstanding [Content Interest Group](https://ndsa.org/groups/content/) is on currently on hiatus. If you are interested in chairing this group please reach out to Leadership at chair [at] ndsa [dot] com to learn more and talk about group formation.
 
