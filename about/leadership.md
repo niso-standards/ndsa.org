@@ -90,7 +90,7 @@ redirect_from: /leadership/
 <div class="row coordinating-committee">
     <div class="col-sm-10">
         <h3>Lauren Goodley</h3>
-        <p>Lauren Goodley is the Digital Archivist at the Wittliff Collections, Texas State University. Her duties include digital preservation initiatives and actions; managing digitization projects; and processing, access, and reference for digital manuscript and audio-visual materials. Lauren currently serves on the NDSA Fixity Survey Working Group, and was on the NDSA Excellence Awards from 2019-2021. Lauren has also served as the Secretary for the Academy of Certified Archivists, Chair of the Texas Digital Library Awards Committee, and is a member of the Archival Workers Collective. She regularly presents at the annual meetings of the Society of Southwest Archivists, the Society of American Archivists, and the Association of Tribal Archives, Libraries, and Museums.  Lauren holds a MSIS from the University of Texas at Austin, a Digital Archives Specialist certificate from SAA, is a Certified Archivist, and recently completed the CopyrightX-Libraries course.</p>
+        <p>Lauren Goodley (1st term, 2026-2027) is the Digital Archivist at the Wittliff Collections, Texas State University. Her duties include digital preservation initiatives and actions; managing digitization projects; and processing, access, and reference for digital manuscript and audio-visual materials. Lauren currently serves on the NDSA Fixity Survey Working Group, and was on the NDSA Excellence Awards from 2019-2021. Lauren has also served as the Secretary for the Academy of Certified Archivists, Chair of the Texas Digital Library Awards Committee, and is a member of the Archival Workers Collective. She regularly presents at the annual meetings of the Society of Southwest Archivists, the Society of American Archivists, and the Association of Tribal Archives, Libraries, and Museums.  Lauren holds a MSIS from the University of Texas at Austin, a Digital Archives Specialist certificate from SAA, is a Certified Archivist, and recently completed the CopyrightX-Libraries course.</p>
     </div>
        <div class="col-sm-2">
          <img class="img-responsive" class="img-responsive" alt="Rebecca Frank" src="{{ '/images/coordinating-committee/GoodleyL-2026.png' | prepend: site.baseurl }}"> 
@@ -172,7 +172,7 @@ redirect_from: /leadership/
     </div>
 </div>
 
-<div class="row coordinating-committee">
+<!--<div class="row coordinating-committee">
     <div class="col-sm-10">
         <h3>Jacqueline Devereaux</h3>
         <p>Jacqueline Devereaux (<a href="/groups/levels-of-preservation/">Levels of Digital Preservation Steering Group</a> Co-Chair, 2026-) is the Curator of Born Digital Special Collections at Vanderbilt University in Nashville, Tennessee. At Vanderbilt, she oversees the website archiving program, born digital ingest and processing, and training fellow library staff members. Her interests include digital preservation advocacy and engaging K-12 students in archives. Previously, she worked in museums, taught 4th grade social studies, and researched informal memory keeping strategies in theme parks.</p> 
@@ -180,7 +180,7 @@ redirect_from: /leadership/
     <div class="col-sm-2">
         <img class="img-responsive" alt="Jacqueline Devereaux" src="{{ '/images/coordinating-committee/Devereaux.jpg' | prepend: site.baseurl }}">
     </div>
-</div>
+</div>-->
 
 <div class="row coordinating-committee">
     <div class="col-sm-10">
@@ -271,7 +271,7 @@ redirect_from: /leadership/
 <div class="row coordinating-committee">
     <div class="col-sm-10">
         <h3>Dan Noonan</h3>
-        <p>Dan (<a href="/groups/communications-publications/">Communications and Publications Working Group</a> co-chair; 1st term, 2023-2025) is an Associate Professor and the Digital Preservation Librarian for The Ohio State University Libraries University Libraries. Reporting to the Associate Dean for Distinctive Collections and Digital Programs, he plays a key role in developing a trusted digital preservation ethos and infrastructure at University Libraries. This position contributes strategy and expertise, and provides leadership through close collaboration with faculty, staff, and other leaders in the University Libraries. With over 20 years of experience in the archives, records management and library professions, he is a frequent contributor to the local, regional, national and international digital preservation communities. Most recently, Dan served on NDSA’s Coordinating Committee, and previously co-chaired NDSA's Levels of Preservation Revision Work Group. You can learn more about Dan at <a href="http://go.osu.edu/noonan">http://go.osu.edu/noonan</a>.
+        <p>Dan Noonan(<a href="/groups/communications-publications/">Communications and Publications Working Group</a> co-chair; 1st term, 2023-2025) is an Associate Professor and the Digital Preservation Librarian for The Ohio State University Libraries University Libraries. Reporting to the Associate Dean for Distinctive Collections and Digital Programs, he plays a key role in developing a trusted digital preservation ethos and infrastructure at University Libraries. This position contributes strategy and expertise, and provides leadership through close collaboration with faculty, staff, and other leaders in the University Libraries. With over 20 years of experience in the archives, records management and library professions, he is a frequent contributor to the local, regional, national and international digital preservation communities. Most recently, Dan served on NDSA’s Coordinating Committee, and previously co-chaired NDSA's Levels of Preservation Revision Work Group. You can learn more about Dan at <a href="http://go.osu.edu/noonan">http://go.osu.edu/noonan</a>.
 
 </p>
     </div>
