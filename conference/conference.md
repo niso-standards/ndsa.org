@@ -20,6 +20,12 @@ Digital Preservation 2026 will be held virtually on November 4-5, 2026, times fo
 ### Call for Proposals
 The 2026 Digital Preservation Call for Proposals is now open. For more information or to submit a proposal, **visit the [conference proposal webpage](https://ndsa.org/conference/digital-preservation-virtual-2026/cfp/)**.  The submission deadline is July 1, 2026 at 11:59 p.m. Eastern Time. Presenters will be notified of their acceptance in late July.
 
+### Keynote Nominations
+Do you know someone who would make a great keynote speaker for this year's DigiPres? Submit a nomination via the [nomination form](https://docs.google.com/forms/d/e/1FAIpQLSeIBBe3IcBz_pnjLuuOao6ughwpPzSS_wQMs9qJlaUIChcCLA/viewform). If you have any questions about keynote nominations, please email ndsa [dot]digipres [at] gmail [dot] com.
+
+### Sponsor Opportunities
+Interested in serving as a sponsor for DigiPres 2026? Information about available sponsorship opportunities and levels is available on the [DigiPres 2026 Sponsor Prospectus](https://docs.google.com/document/d/1aAnrNnPfJsjj-sEH_CYIYe-m4Zk0tXvi08KaiRvlZZI/edit?tab=t.0). Email ndsa [dot]digipres [at] gmail [dot] com with any questions.
+
 
 <!--Please see this [schedule](https://ndsa.org/documents/NDSA_2025_DigiPres_Conference_Schedule.pdf) for information on accepted conference presentations and lightning talks.-->
 
