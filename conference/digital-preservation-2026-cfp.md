@@ -57,7 +57,9 @@ All submissions will be peer-reviewed by NDSA’s Digital Preservation 2026 Prog
 
 Presenters will be notified of their acceptance **starting in late July**. All presentations must be recorded for playback during the conference. Presenters should be available for a live question and answer period during the scheduled session time. Presenters will receive support in the form of tutorials, resources, and individual assistance. 
 
-**Note:** All conference attendees are expected to abide by the NDSA Code of Conduct, and proposals should be submitted in the spirit of [NDSA’s Values and Principles](https://ndsa.org/about/foundational-strategy/). 
+**Note:** 
+- All conference attendees are expected to abide by the NDSA Code of Conduct, and proposals should be submitted in the spirit of [NDSA’s Values and Principles](https://ndsa.org/about/foundational-strategy/). 
+- The Microsoft CMT service was used for managing the peer-reviewing process for this conference. This service was provided for free by Microsoft and they bore all expenses, including costs for Azure cloud services as well as for software development and support.
 
 ## Questions?
 Feel free to reach out to ndsa.digipres@gmail.com and someone will get back to you as soon as possible.
