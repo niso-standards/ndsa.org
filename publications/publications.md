@@ -12,8 +12,8 @@ New publications are announced on the [NDSA Blog](/news/), while links to a few 
 
 ### Signature Publication
 #### Levels of Digital Preservation
-- [2019 Levels of Digital Preservation Working Group](/activities/levels-of-digital-preservation/)
-- 2019 Levels of Digital Preservation Publications (<a href="https://osf.io/qgz98/" target="_blank">OSF Repository <i class="fas fa-external-link-alt"></i></a>)
+- [V2.1 Levels of Digital Preservation Resources](/activities/levels-of-digital-preservation/)
+- V2.1 Levels of Digital Preservation Publications (<a href="https://osf.io/hu8d9/overview" target="_blank">OSF Repository <i class="fas fa-external-link-alt"></i></a>)
 
 <!--#### NDSA Agenda
 - Previously called the National Agenda, the NDSA Agenda integrates the persepctive of dozens of experts and hundreds of institutions to provide funders and executive decision‐makers insight into emerging technological trends, gaps in digital stewardship capacity, and key areas for funding, research and development to ensure that today’s valuable digital content remains accessible and comprehensible in the future, supporting a thriving economy, a robust democracy, and a rich cultural heritage.
@@ -43,21 +43,16 @@ Several key points emerged from the 2021 survey and the [report](https://osf.io/
 - A [checklist](https://osf.io/zmy65/) (PDF) written by the NDSA Good Migrations Working Group that provides guidance for practitioners migrating all or components of their infrastructure.
 
 
-
 #### Fixity Survey Reports
+- The [2025 report](https://osf.io/ts54p/overview) written by the [Fixity Working Group](/fixity) follows up on the 2021 [report](https://osf.io/2qkea/) and continues to analyze trends and practices around fixity.
 - The [2021 report](https://osf.io/2qkea/) (PDF) written by the [Fixity Working Group](/fixity) follows up on the 2017 [report](/documents/Report_2017NDSAFixitySurvery.pdf) (PDF) and analyzes trends and evolving practices around fixity.  
-
 - The [2017 report](/documents/Report_2017NDSAFixitySurvery.pdf) (PDF, 977 KB) written by the [Fixity Working Group](/fixity) that addresses the “… clear need for use-case driven examples of best practices for fixity in particular system designs and configurations established to meet particular preservation requirements” raised in the 2015 NDSA National Agenda.
-
-
 
 #### "Geospatial Data Stewardship: Key Online Resources"
 - A [report](/documents/NDSA_Geo-stewardship-key-resources_final030414.pdf) (PDF) of the Geospatial Content Team that lists online resources that highlight key concepts and practices supporting the preservation and stewardship of digital geospatial data and information. The resources offer a starting point to methods, tools and approaches across the information lifecycle to assist in understanding current best practices in the stewardship of geospatial data. These resources will be regularly updated online at the ["Geospatial Data Stewardship: Key Online Resources"](/working-groups/content/geospatial-data-stewardship/) web page.
 
 #### "The Benefits and Risks of the PDF/A-3 File Format for Archival Institutions"
 - A [report](/documents/NDSA_PDF_A3_report_final022014.pdf) (pdf) created by the [Standards and Practices Working Group](/working-groups/standards-and-practices) that takes a measured look at the costs and benefits of the widespread use of the PDF/A-3 format, especially as it effects content arriving in collecting institutions. It provides background on the technical development of the specification, identifies specific scenarios under which the format might be used and suggests policy prescriptions for collecting institutions to consider. More information in a [2/20/14 blog post](http://blogs.loc.gov/digitalpreservation/2014/02/new-ndsa-report-the-benefits-and-risks-of-the-pdfa-3-file-format-for-archival-institutions/) on the Signal.
-
-
 
 #### Issues in the Appraisal and Selection of Geospatial Data
 - A [report](/documents/NDSA_AppraisalSelection_report_final102413.pdf) (PDF, 554 KB) of the Geospatial Content Team of the [Content Working Group](/working-groups/content/) considering both appraisal and selection activities as they effect decisions defining geospatial content of enduring value to the nation.

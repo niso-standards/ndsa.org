@@ -26,13 +26,35 @@ th, td {
 
 </style>
 
+
+
+| Year 	| Fixity Survey	| Levels of Preservation 	| Staffing Survey 	| Storage Survey 	| Web Archiving Survey	|
+|:----:	|:------:	|:----------------------:	|:------:	|:--------------:	|:-------------:	|
+| 2021 	|    [Completed](https://osf.io/2qkea/)   	|                        	|        	       [Completed](https://osf.io/emwy4/)        	|                	|           	|
+| 2022 	|        	|                        	|                     	|                	|    	|
+| 2023 	|        	|                        	|        	                 	|        [Completed](https://doi.org/10.17605/OSF.IO/9QP4W)      	|    [Completed](https://osf.io/n5myr/)           	|
+| 2024 	|        	|            [Completed](https://ndsa.org/publications/levels-of-digital-preservation/)           	|       	                	|                	|              	|
+| 2025 	|    [Completed](https://osf.io/ts54p/overview)   	|                        	|        	        [In Progress](https://ndsa.org/groups/staffing/)         	|                	|              	|
+| 2026 	|        	|                        	|       	                 	|        X       	|    [In Progress](https://www.ndsa.org/groups/web-archiving/)          	|
+| 2027 	|        	|                        	|        	                 	|                	|              	|
+| 2028 	|        	|                        	|       	        X         	|                	|       X        	|
+| 2029 	|    X   	|            X           	|        	                 	|        X       	|               	|
+| 2030 	|        	|                        	|       	                 	|                	|              	|
+| 2031 	|        	|                        	|        	        X        	|                	|       X        	|
+| 2032 	|        	|                        	|       	                 	|        X       	|               	|
+| 2033 	|    X   	|                        	|        	                 	|                	|             	|
+| 2034 	|        	|            X           	|       	         X        	|                	|       X        	|
+
+
+<!--Table with Agenda in it
+
 | Year 	| Fixity Survey	| Levels of Preservation 	| Agenda	| Staffing Survey 	| Storage Survey 	| Web Archiving Survey	|
 |:----:	|:------:	|:----------------------:	|:------:	|:---------------:	|:--------------:	|:-------------:	|
 | 2021 	|    [Completed](https://osf.io/2qkea/)   	|                        	|        	|        [Completed](https://osf.io/emwy4/)        	|                	|           	|
 | 2022 	|        	|                        	|    Schedule under review   	|                 	|                	|    	|
 | 2023 	|        	|                        	|        	|                 	|        [Completed](https://doi.org/10.17605/OSF.IO/9QP4W)      	|    [Completed](https://osf.io/n5myr/)           	|
 | 2024 	|        	|            [Completed](https://ndsa.org/publications/levels-of-digital-preservation/)           	|       	|                	|                	|              	|
-| 2025 	|    [In Progress](https://ndsa.org/groups/fixity/)   	|                        	|        	|        [In Progress](https://ndsa.org/groups/staffing/)         	|                	|              	|
+| 2025 	|    [Completed](https://osf.io/ts54p/overview)   	|                        	|        	|        [In Progress](https://ndsa.org/groups/staffing/)         	|                	|              	|
 | 2026 	|        	|                        	|       	|                 	|        X       	|    [In Progress](https://www.ndsa.org/groups/web-archiving/)          	|
 | 2027 	|        	|                        	|        	|                 	|                	|              	|
 | 2028 	|        	|                        	|       	|        X         	|                	|       X        	|
@@ -42,3 +64,7 @@ th, td {
 | 2032 	|        	|                        	|       	|                 	|        X       	|               	|
 | 2033 	|    X   	|                        	|        	|                 	|                	|             	|
 | 2034 	|        	|            X           	|       	|         X        	|                	|       X        	|
+
+
+
+-->
