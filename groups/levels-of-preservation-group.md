@@ -18,19 +18,14 @@ New members will be added to a larger Working Group once additional work is iden
 ### Current Work
 The Levels Steering group meets monthly to discuss the future needs around the Levels of Digital Preservation.  The group also holds quarterly open sessions to engage the community and to hear feedback on the Levels in preparation for updates to the existing Levels - anyone is welcome to attend these sessions.  The group continues to discuss the Levels with the community at conferences to solicit feedback and to better understand how the Levels are being used.  
 
-As part of the [review cycle](https://ndsa.org/groups/schedule/), the Levels Working Group was re-formed in mid-2024 in order to carry out a targeted revision to the Levels on the topic of environmental sustainability. The focus of this work is a result of community feedback gathered by the Steering Group in 2023 and earlier.  The Levels Working Group is updating the Levels's outputs and new versions are expected in early 2026.   
+As part of the [review cycle](https://ndsa.org/groups/schedule/), the Levels Working Group re-formed in mid-2024 in order to carry out a targeted revision to the Levels on the topic of environmental sustainability. The focus of this work is a result of community feedback gathered by the Steering Group in 2023 and earlier.  The Levels Working Group completed their task in earlu 2026 and [all outputs](https://www.ndsa.org/publications/levels-of-digital-preservation/) related to version 2.1 of the Levels of Digital Preservation are available on the NDSA website.   
 
 ### Steering Group Members
-* Jacqueline Devereaux (co-chair), Curator of Born Digital Special Collections, Special Collections and University Archives; Vanderbilt University
 * Matthew Mceniry (co-chair), Associate Librarian and the Director of the Digital Scholarship Lab; Texas Tech University Libraries
-* Angela Beking, Manager, Information and Data Management Policy / Gestionnaire, Politique de gestion de l'information et des données, Privy Council Office; Government of Canada
 * Ann Hanlon, Head of Digital Collections and Initiatives; University of Wisconsin Milwaukee Libraries
 * Carol Kussmann, Digital Preservation Analyst; University of Minnesota Libraries
 * Elizabeth La Beaud, Head of Library Technology at the University of Southern Mississippi, and Director of the Mississippi Digital Library
-* Jenny Mitcham, Chief Digital Preservation Officer; Digital Preservation Coalition
 * Keith Pendergrass, Digital Archivist; Harvard Business School
-<!--* Nancy McGovern, Associate for Digital Preservation Instruction and Practice, Global Archivist-->
-
 
 <!--### Background on Working Group Activities
 The Levels of Digital Preservation Working Group was re-formed in 2018 with the main purpose of updating the Levels of Digital Preservation Matrix. The **full set activities of the 2018 group are provided on the [history](/groups/levels-of-preservation/history/) page** for the LOP Working Group.  The Levels are scheduled to be reviewed again in 2024.   -->
@@ -45,17 +40,16 @@ The Levels of Digital Preservation Working Group was re-formed in 2018 with the 
 
 
 ### The Levels of Digital Preservation
-**Version 2.0 of the Levels of Digital Preservation Matrix and all associated materials** can be found on both the NDSA website and the NDSA OSF site.  
+**Version 2.1 of the Levels of Digital Preservation Matrix and all associated materials** can be found on both the NDSA website and the NDSA OSF site.  
 - NDSA Levels of Digital Preservation [Website](/publications/levels-of-digital-preservation/)
-- 2019 Levels of Digital Preservation [OSF Project Page](https://osf.io/qgz98/)  
+- V2.1 Levels of Digital Preservation [OSF Project Page](https://osf.io/hu8d9/overview)
+<!-- - 2019 Levels of Digital Preservation [OSF Project Page](https://osf.io/qgz98/)-->  
 
 
 ### Get Involved
-* Keep your eye out and join us for bi-monthly Open Discussion Sessions about the Levels. (Information about Open Sessions are sent via NDSA-All listserv.)
+<!--* Keep your eye out and join us for bi-monthly Open Discussion Sessions about the Levels. (Information about Open Sessions are sent via NDSA-All listserv.)-->
 * For more information about the NDSA Levels of Digital Preservation products, visit our [web page](https://ndsa.org/publications/levels-of-digital-preservation/).
 * If you have any comments or feedback about the NDSA Levels of Digital Preservation contact the Steering Group using our [feedback form](https://forms.gle/BqYF4svZHpMCkBCw5). 
-
-
 
 
 <!--- Join the conversation by adding your name to the [Levels of Digital Preservation Working Group mailing list](https://lists.clir.org/cgi-bin/wa?A0=NDSA-LEVELS)!  -->
