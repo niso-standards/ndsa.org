@@ -18,7 +18,8 @@ Conference details are available on the [DLF Forum website](https://forum2023.di
 Digital Preservation 2026 will be held virtually on November 4-5, 2026, times forthcoming. <!--from 11:00 am EDT to 4:45 EDT on both days.--> 
 
 ### Call for Proposals
-The 2026 Digital Preservation Call for Proposals is now open. For more information or to submit a proposal, **visit the [conference proposal webpage](https://ndsa.org/conference/digital-preservation-virtual-2026/cfp/)**.  The submission deadline is July 15, 2026 at 11:59 p.m. Eastern Time. Presenters will be notified of their acceptance in mid-August.
+<!--The 2026 Digital Preservation Call for Proposals is now open. For more information or to submit a proposal, **visit the [conference proposal webpage](https://ndsa.org/conference/digital-preservation-virtual-2026/cfp/)**.  The submission deadline is July 15, 2026 at 11:59 p.m. Eastern Time. Presenters will be notified of their acceptance in mid-August.-->
+The 2026 Digital Preservation Call for Proposals is now closed. Presenters will be notified of their acceptance in mid-August. For more information, **visit the [conference proposal webpage](https://ndsa.org/conference/digital-preservation-virtual-2026/cfp/)**
 
 ### Keynote Nominations
 Do you know someone who would make a great keynote speaker for this year's DigiPres? Submit a nomination via the [nomination form](https://docs.google.com/forms/d/e/1FAIpQLSeIBBe3IcBz_pnjLuuOao6ughwpPzSS_wQMs9qJlaUIChcCLA/viewform). If you have any questions about keynote nominations, please email ndsa [dot]digipres [at] gmail [dot] com.
