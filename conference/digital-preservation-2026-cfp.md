@@ -13,7 +13,7 @@ Digital Preservation 2026 will be held virtually on November 4-5, 2026.
 As digital preservation professionals, we are accustomed to juggling diverse tasks and balancing multiple priorities. However, recent technological and political developments have impacted our perspectives on labor and how we can best allocate resources and effort. For the 2026 NDSA Digital Preservation conference, we invite proposals that explore the ways that we approach, manage, and perform labor from multiple angles. Which tasks can we assign to software applications, and which still require human intervention? How can we leverage the potential benefits of AI tools while protecting the security and integrity of our collections and digital assets from unauthorized exploitation? Our current reality of budget cuts and hiring freezes is coupled with ever-expanding digital collections. With this reality, what are the practical limits of our capacity and potential, and how do we line those up with our visions and ideals? How can we advocate differently to secure resources that can support a resilient preservation infrastructure in the midst of humanitarian and environmental crises? How can effective programs be established in the midst of constant change? Once established, what steps can be taken to stabilize a digital preservation program and ensure its continuance? What opportunities exist for community engagement that might help navigate these emerging challenges? What opportunities can we create? What self-care strategies can digital preservation practitioners adopt to manage the demands of productivity and the stress of an ever-changing environment?  
 
 ## Call for Proposals
-We invite presentations that relate to the conference theme. Possible topics include but are not limited to:
+We invited presentations that related to the conference theme. Possible topics included but were not limited to:
 
 - Digital preservation and curation
 - Born-digital collections
@@ -53,7 +53,8 @@ All submissions will be peer-reviewed by NDSA’s Digital Preservation 2026 Prog
 - They may recommend the proposal for presentation as a lightning talk.
 
 ## Submit your Proposal
-**[Submit your proposal](https://docs.google.com/forms/d/e/1FAIpQLScl41ofGogIb1FCs1ZIPnb9ENC2-gxpqFWBuiJs65NSL5rDbQ/viewform?usp=sharing&ouid=118333939818000509796){:target="_blank"}** now. The submission deadline is **July 15, 2026 at 11:59 p.m.** Eastern Time.
+<!---**[Submit your proposal](https://docs.google.com/forms/d/e/1FAIpQLScl41ofGogIb1FCs1ZIPnb9ENC2-gxpqFWBuiJs65NSL5rDbQ/viewform?usp=sharing&ouid=118333939818000509796){:target="_blank"}** now. The submission deadline is **July 15, 2026 at 11:59 p.m.** Eastern Time.-->
+The call for proposals is now closed.
 
 Presenters will be notified of their acceptance **starting in mid-August**. All presentations must be recorded for playback during the conference. Presenters should be available for a live question and answer period during the scheduled session time. Presenters will receive support in the form of tutorials, resources, and individual assistance. 
 
