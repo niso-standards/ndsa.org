@@ -18,7 +18,7 @@ Conference details are available on the [DLF Forum website](https://forum2023.di
 Digital Preservation 2026 will be held virtually on November 4-5, 2026, from 11:00 am EDT to 5:00 EDT on both days.
 
 ### Registration Information
-Registration will open August 17, 2026. Registration fees will be $100 for NDSA members and $125 for non-members. For those experiencing financial hardship, a coupon code for free registration <!--to both the SPN preconference and the main NDSA DigiPres conference--> will be needed; the conference planning committee will handle vetting these requests and provide instructions for registration. <!-- within Eventbrite.-->
+Registration will open August 17, 2026. Registration fees will be $100 for NDSA members and $125 for non-members. For those experiencing financial hardship, a coupon code for free registration will be needed; the conference planning committee will handle vetting these requests and provide instructions for registration within Eventbrite.
 
 ### Call for Proposals
 <!--The 2026 Digital Preservation Call for Proposals is now open. For more information or to submit a proposal, **visit the [conference proposal webpage](https://ndsa.org/conference/digital-preservation-virtual-2026/cfp/)**.  The submission deadline is July 15, 2026 at 11:59 p.m. Eastern Time. Presenters will be notified of their acceptance in mid-August.-->
