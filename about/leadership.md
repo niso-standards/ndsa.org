@@ -291,7 +291,7 @@ redirect_from: /leadership/
     </div>
 </div>
 
-<div class="row coordinating-committee">
+<!--<div class="row coordinating-committee">
     <div class="col-sm-10">
         <h3>Robin Ruggaber</h3>
         <p>Robin Ruggaber, (<a href="/groups/infrastructure/">Infrastructure Interest Group</a> Co-Chair; 1st term, 2022-2024), works as the Director for Strategic Technology Partnerships & Initiatives for the University of Virginia Library. As a founding member of several opensource repository technologies, preservation, open access, and accessibility solutions  (Fedora, Blacklight, Samvera, Academic Preservation Trust, Investment in Open Infrastructure, and Education Materials Made Accessible), UVA has a long-standing commitment to protecting availability and open access to intellectual and cultural knowledge. Robin serves in a strategic or technical advisory capacity in these types of technical collaborations, forges new partnerships, and serves as a technology consultant within UVA and across higher education.  She is drawn to the complex problems facing the digital stewardship community and sees the work of NDSA as critical to addressing those challenges.</p>
@@ -299,7 +299,7 @@ redirect_from: /leadership/
     <div class="col-sm-2">
         <img class="img-responsive" alt="Robin Ruggaber" src="{{ '/images/coordinating-committee/Ruggaber.jpg' | prepend: site.baseurl }}">
     </div>
-</div>
+</div>-->
 
 <div class="row coordinating-committee">
     <div class="col-sm-10">
