@@ -13,7 +13,7 @@ The NDSA's institutional home as of January 1, 2016, is the [Digital Library Fed
 
 Although originally constituted as a US-centric organization, NDSA has since opened up its membership to international participation in recognition of the innovative and impactful work being done across national boundaries. The NDSA is a [consortium of organizations](/members-list/) committed to the long-term preservation of digital information. 
 
-More updates coming
+More updates coming.
 
 ### Who We Are
 
