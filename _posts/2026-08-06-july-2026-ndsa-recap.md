@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "July 2026 NDSA Recap"
-date: '2026-08-06 13:19:21 +0000'
+date: '2026-08-06 09:27:21 +0000'
 ---
 The NDSA Leadership Team is pleased to share a summary of activities that occurred across the organization in June 2026, as well as highlight past and upcoming activities, which can also be found on the [calendar](https://ndsa.org/events/calendar/). If you are looking to catch up, you can read the [June update](https://www.ndsa.org/2026/07/09/june-2026-ndsa-recap.html).
 
