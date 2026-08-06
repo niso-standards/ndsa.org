@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "July 2026 NDSA Recap"
-date: '2026-08-06 13:19:21 +0000'
+date: '2026-08-06 18:51:29 +0000'
 ---
 The NDSA Leadership Team is pleased to share a summary of activities that occurred across the organization in June 2026, as well as highlight past and upcoming activities, which can also be found on the [calendar](https://ndsa.org/events/calendar/). If you are looking to catch up, you can read the [June update](https://www.ndsa.org/2026/07/09/june-2026-ndsa-recap.html).
 
@@ -35,5 +35,5 @@ Use the [NDSA Calendar](https://ndsa.org/events/calendar/) to look for events of
 
 Check out the [Get Involved](http://ndsa.org/about/get-involved/) webpage for ways to deepen your engagement with NDSA. Current opportunities include:
 
-* The [Infrastructure Interest Group](https://www.ndsa.org/groups/infrastructure/) is currently seeking a second co-chair. If you are interested in co-chairing this group please reach out to Leadership at chair [at] ndsa [dot] com to learn more and talk about group formation.  
-* The longstanding [Content Interest Group](https://www.ndsa.org/groups/content/) is currently on hiatus. If you are interested in chairing this group please reach out to Leadership at chair [at] ndsa [dot] com to learn more and talk about group formation.
+* The [Infrastructure Interest Group](https://www.ndsa.org/groups/infrastructure/) is currently seeking a second co-chair. If you are interested in co-chairing this group please reach out to Leadership at chair \[at\] ndsa \[dot\] com to learn more and talk about group formation.  
+* The longstanding [Content Interest Group](https://www.ndsa.org/groups/content/) is currently on hiatus. If you are interested in chairing this group please reach out to Leadership at chair \[at\] ndsa \[dot\] com to learn more and talk about group formation.
