@@ -11,3 +11,5 @@ The survey finds continued progress in policy, infrastructure, and assessment, a
 The findings underscore the need for greater investment in staffing, infrastructure, training, and organizational support to sustain digital preservation programs.
 
 The [full report and supporting materials](https://zenodo.org/records/22003451) are available in the NDSA Zenodo community.  Thank you to all who participated in the survey.    
+
+Note: Zenodo has been experiencing slowness and intermittent outages due to heavy automated traffic from bots and AI crawlers. They are aware of the problem, and their team is focused on stabilizing the service. Thank you for your patience.
