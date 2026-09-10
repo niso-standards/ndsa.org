@@ -24,8 +24,16 @@ Digital Preservation 2026 will be held virtually on November 4-5, 2026, from 11:
 <!--The 2026 Digital Preservation Call for Proposals is now open. For more information or to submit a proposal, **visit the [conference proposal webpage](https://ndsa.org/conference/digital-preservation-virtual-2026/cfp/)**.  The submission deadline is July 15, 2026 at 11:59 p.m. Eastern Time. Presenters will be notified of their acceptance in mid-August.-->
 The 2026 Digital Preservation Call for Proposals is now closed. Presenters will be notified of their acceptance in mid-August. For more information, **visit the [conference proposal webpage](https://ndsa.org/conference/digital-preservation-virtual-2026/cfp/)**
 
-### Keynote Nominations
-Do you know someone who would make a great keynote speaker for this year's DigiPres? Submit a nomination via the [nomination form](https://docs.google.com/forms/d/e/1FAIpQLSeIBBe3IcBz_pnjLuuOao6ughwpPzSS_wQMs9qJlaUIChcCLA/viewform). If you have any questions about keynote nominations, please email ndsa [dot]digipres [at] gmail [dot] com.
+### Keynote Speaker: Sharon McMeekin
+
+<img alt="Sharon McMeekin headshot" width="400" height="500" style="float:left" src='{{ "/images/conferences/SharonMcMeekin-2026Keynote.jpg" }}'>
+
+Sharon has worked in digital preservation for twenty years and is a co-founder of Preserve Together. She leads their training outputs as well as contributing to consultancy. Their work has included projects with the British Library, the Archives and Records Association (UK and Ireland), and the CLOCKSS Archive and LOCKSS Program. Previously, Sharon was Head of Workforce Development with the Digital Preservation Coalition for more than a decade and also spent five years as Digital Archivist with the Royal Commission on the Ancient and Historical Monuments of Scotland. 
+
+Amongst other outputs, Sharon was the lead author of the Novice to Know-How training courses, the Digital Preservation Competency Framework and Audit Toolkit, and the Survey Report on Mental Health in the Digital Preservation Community. She was also Managing Editor of the Digital Preservation Handbook. Her community activities have included serving as a board member for the Bridging the Digital Gap trainee program, a trustee for the Scottish Council on Archives, and a co-chair of the iPRES conference program committee. With the NDSA, she has contributed to the 2021 and 2025 Staffing Surveys and now sits on the Events Steering Committee. She holds Master’s degrees in Information Technology and Information Management and Preservation from the University of Glasgow.
+
+
+<!--Do you know someone who would make a great keynote speaker for this year's DigiPres? Submit a nomination via the [nomination form](https://docs.google.com/forms/d/e/1FAIpQLSeIBBe3IcBz_pnjLuuOao6ughwpPzSS_wQMs9qJlaUIChcCLA/viewform). If you have any questions about keynote nominations, please email ndsa [dot]digipres [at] gmail [dot] com.-->
 
 ### Sponsor Opportunities
 Interested in serving as a sponsor for DigiPres 2026? Information about available sponsorship opportunities and levels is available on the [DigiPres 2026 Sponsor Prospectus](https://docs.google.com/document/d/1aAnrNnPfJsjj-sEH_CYIYe-m4Zk0tXvi08KaiRvlZZI/edit?tab=t.0). Email ndsa [dot]digipres [at] gmail [dot] com with any questions.
