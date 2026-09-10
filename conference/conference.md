@@ -26,7 +26,7 @@ The 2026 Digital Preservation Call for Proposals is now closed. Presenters will 
 
 ### Keynote Speaker: Sharon McMeekin
 
-<img alt="Sharon McMeekin headshot" width="400" height="500" style="float:left" src='{{ "/images/conferences/SharonMcMeekin-2026Keynote.jpg" }}'>
+<img alt="Sharon McMeekin headshot" width="400" height="500" style="float:left" src='{{ "/images/conferences/SharonMcMeekin-2026Keynote.JPG" }}'>
 
 Sharon has worked in digital preservation for twenty years and is a co-founder of Preserve Together. She leads their training outputs as well as contributing to consultancy. Their work has included projects with the British Library, the Archives and Records Association (UK and Ireland), and the CLOCKSS Archive and LOCKSS Program. Previously, Sharon was Head of Workforce Development with the Digital Preservation Coalition for more than a decade and also spent five years as Digital Archivist with the Royal Commission on the Ancient and Historical Monuments of Scotland. 
 
