@@ -34,7 +34,7 @@ th, td {
 | 2022 	|        	|                        	|                     	|                	|    	|
 | 2023 	|        	|                        	|        	                 	|        [Completed](https://doi.org/10.17605/OSF.IO/9QP4W)      	|    [Completed](https://osf.io/n5myr/)           	|
 | 2024 	|        	|            [Completed](https://ndsa.org/publications/levels-of-digital-preservation/)           	|       	                	|                	|              	|
-| 2025 	|    [Completed](https://osf.io/ts54p/overview)   	|                        	|        	        [Completed]((https://doi.org/10.5281/zenodo.22003451))         	|                	|              	|
+| 2025 	|    [Completed](https://osf.io/ts54p/overview)   	|                        	|        	        [Completed]((https://doi.org/10.5281/zenodo.22003451)         	|                	|              	|
 | 2026 	|        	|                        	|       	                 	|        X       	|    [In Progress](https://www.ndsa.org/groups/web-archiving/)          	|
 | 2027 	|        	|                        	|        	                 	|                	|              	|
 | 2028 	|        	|                        	|       	        X         	|                	|       X        	|
