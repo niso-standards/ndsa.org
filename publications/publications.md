@@ -6,7 +6,11 @@ redirect_from:
  - /activities-overview/
  - /publications/overview/
 ---
-The NDSA Interest and Working Groups produce reports, survey outcomes, articles, and annotated bibliographies based off of their interests and work. The majority of these are made available on the <a href="https://osf.io/4d567/" target="_blank">NDSA OSF Repository <i class="fas fa-external-link-alt"></i></a>.  
+The NDSA Interest and Working Groups produce reports, survey outcomes, articles, and annotated bibliographies based off of their interests and work. Prior to September 2026, the majority of these were made available on the <a href="https://osf.io/4d567/" target="_blank">NDSA OSF Repository <i class="fas fa-external-link-alt"></i></a>. Due to recent changes at OSF, future publications will be uploaded to the <a href="https://zenodo.org/communities/ndsa/records?q=&l=list&p=1&s=10&sort=newest" target="_blank"> NDSA Community in Zenodo <i class="fas fa-external-link-alt"></i></a>. It is expected that past NDSA content currently in OSF will be migrated to Zenodo over the next few months.  
+
+
+Bookmark the <a href="https://zenodo.org/communities/ndsa/records?q=&l=list&p=1&s=10&sort=newest" target="_blank"> NDSA Community in Zenodo <i class="fas fa-external-link-alt"></i></a> to find our publications.  While it looks sparse now, expect more content to be added in the coming weeks!
+
 
 New publications are announced on the [NDSA Blog](/news/), while links to a few of the NDSA's main products such as the Levels of Digital Preservation and the NDSA Agenda are provided below.
 
@@ -21,6 +25,9 @@ New publications are announced on the [NDSA Blog](/news/), while links to a few 
 - The [NDSA Agenda Working Group](/national-agenda/) page provides background information on the work over the years and links to all available previous versions.-->
 
 ### Highlighted Publication
+
+#### 2025 Staffing Survey
+- A 2025 [report](https://doi.org/10.5281/zenodo.22003451) (PDF) created by the [Staffing Survey Working Group](/working-groups/staffing/), sharing what the group learned by surveying 196 individuals who responded to questions about the organization as well as about individuals. The 2025 survey builds on and expands beyond previous iterations, asking why and how digital preservation is happening and who is doing the work. 
 
 #### [NDSA Climate Watch Substack](https://ndsaclimatewatch.substack.com/)
 In 2023, NDSA Leadership supported the launch of a Climate Watch working group to focus on issues surrounding climate change. The Climate Watch Working Group will scan and report on the most recent literature, news, and reports related to climate change and its impact on digital preservation. Annotated bibliographies are produced quarterly and published on Substack
@@ -58,6 +65,8 @@ Several key points emerged from the 2021 survey and the [report](https://osf.io/
 - A [report](/documents/NDSA_AppraisalSelection_report_final102413.pdf) (PDF, 554 KB) of the Geospatial Content Team of the [Content Working Group](/working-groups/content/) considering both appraisal and selection activities as they effect decisions defining geospatial content of enduring value to the nation.
 
 #### Staffing for Effective Digital Preservation
+- A 2025 [report](https://doi.org/10.5281/zenodo.22003451) (PDF) created by the [Staffing Survey Working Group](/working-groups/staffing/), sharing what the group learned by surveying 196 individuals who responded to questions about the organization as well as about individuals. The 2025 survey builds on and expands beyond previous iterations, asking why and how digital preservation is happening and who is doing the work. 
+
 - A 2021 [report](https://osf.io/emwy4/) (PDF) created by the [Staffing Survey Working Group](/working-groups/staffing/), sharing what the group learned by surveying 269 individuals who responded to questions about the organization as well as about individuals. The 2021 survey builds on and expands beyond previous iterations, asking why and how digital preservation is happening and who is doing the work. 
 
 - A 2017 [report](/documents/Report_2017DigitalPreservationStaffingSurvey.pdf) (PDF, 1.9 MB) created by the [Staffing Survey Working Group](/working-groups/staffing/), sharing what the group learned by surveying 133 institutions, including information on organization type and size, information on how organizations view their digital preservation organization and staffing situation, and ideas about staffing qualifications and training needs. The report also compares the survey results to the results of the 2012 Staffing Survey.  
