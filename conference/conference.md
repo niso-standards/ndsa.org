@@ -15,7 +15,7 @@ The NDSA is a consortium of [{{ site.data.members.count }} organizations](/membe
 Conference details are available on the [DLF Forum website](https://forum2023.diglib.org/conference-venue-and-hotel/).-->  
 
 ### Conference Details and Schedule
-Digital Preservation 2026 will be held virtually on November 4-5, 2026, from 11:00 am EDT to 5:00 EDT on both days. A [preliminary conference schedule](documents/NDSA_DigiPres_Schedule_2026_Public_Draft.pdf) is available now. This schedule is subject to change. More detailed information about conference sessions will be added in the coming weeks.
+Digital Preservation 2026 will be held virtually on November 4-5, 2026, from 11:00 am EDT to 5:00 EDT on both days. A [preliminary conference schedule](../documents/NDSA_DigiPres_Schedule_2026_Public_Draft.pdf) is available now. This schedule is subject to change. More detailed information about conference sessions will be added in the coming weeks.
 
 ### Registration Information
 **[Registration is now open](https://www.eventbrite.com/e/ndsa-digipres-2026-registration-1996099461222?aff=oddtdtcreator).** Registration is available through eventbright as a NISO event. Registration fees are $100 for NDSA members, $125 for non-members, and $54 for students. For those experiencing financial hardship, a coupon code for free registration will be needed; the conference planning committee will handle vetting these requests and provide instructions for registration within Eventbrite. If you would like to request a registration fee waiver, please complete the [fee waiver application](https://docs.google.com/forms/d/e/1FAIpQLScJdg4cKSdMtBkfjgxjx_urp9kRqWToTEifwBIbENQze1U7HQ/viewform).
