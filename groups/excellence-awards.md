@@ -37,12 +37,12 @@ Nominations for the 2023 Excellence Awareds have closed.  [Awards](https://ndsa.
 
 ## Working Group Members
 - Jessica Venlet, co-chair (University of Michigan Library)
-- Sarah Middleton (Digital Preservation Coalition Representative)
+- Lauren Work, co-chair (Yale University Library)
+- Anna Perricci (Digital Preservation Coalition Representative)
 - Brian Dietz (NC State University Libraries)
 - \[Matthew\] Farrell (Duke University Libraries)
 - Elvia Arroyo-Ramirez (UC Irvine Libraries)
 - John Dewees (University of Rochester) 
-- Lauren Work (Yale University Library)
 - Brenna Edwards (Harry Ransom Center, The University of Texas at Austin)
 - Doreen Dixon (Clemson University Libraries)
 
