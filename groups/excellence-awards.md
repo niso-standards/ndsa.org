@@ -43,7 +43,7 @@ Nominations for the 2023 Excellence Awareds have closed.  [Awards](https://ndsa.
 - \[Matthew\] Farrell (Duke University Libraries)
 - Elvia Arroyo-Ramirez (UC Irvine Libraries)
 - John Dewees (University of Rochester) 
-- Brenna Edwards (Harry Ransom Center, The University of Texas at Austin)
+- Brenna Edwards (University of Georgia)
 - Doreen Dixon (Clemson University Libraries)
 
 ## Past Award Recipients
