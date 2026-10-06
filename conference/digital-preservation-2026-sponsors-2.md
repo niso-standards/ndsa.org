@@ -3,6 +3,7 @@ title: 2026 Digital Preservation Sponsors
 layout: page
 permalink: /conference/digital-preservation-2026/sponsors2/
 ---
+
 <p><strong>The Planning Committee wishes to thank our sponsors for their support.</strong></p>
 
 <h2>Gold Sponsor</h2>
@@ -159,22 +160,13 @@ permalink: /conference/digital-preservation-2026/sponsors2/
   margin: 1.5rem 0 3.5rem;
 }
 
-
-/* Gold: large, full-width */
-
 .sponsor-grid-gold {
   grid-template-columns: 1fr;
 }
 
-
-/* Silver: medium cards, ready for future sponsors */
-
 .sponsor-grid-silver {
   grid-template-columns: repeat(2, 1fr);
 }
-
-
-/* Bronze: smaller cards, centered */
 
 .sponsor-grid-bronze {
   display: flex;
@@ -207,9 +199,6 @@ permalink: /conference/digital-preservation-2026/sponsors2/
     box-shadow 0.2s ease;
 }
 
-
-/* Subtle hover effect */
-
 .sponsor-card:hover {
   transform: translateY(-4px);
   box-shadow: 0 5px 14px rgba(0, 0, 0, 0.13);
@@ -225,7 +214,6 @@ permalink: /conference/digital-preservation-2026/sponsors2/
   padding: 3rem 2.5rem 2.5rem;
 }
 
-
 .sponsor-logo-gold {
   height: 230px;
   display: flex;
@@ -233,14 +221,12 @@ permalink: /conference/digital-preservation-2026/sponsors2/
   justify-content: center;
 }
 
-
 .sponsor-logo-gold img {
   max-width: 600px;
   max-height: 280px;
   width: auto;
   height: auto;
 }
-
 
 .sponsor-card-gold .sponsor-name {
   font-size: 1.7rem;
@@ -255,7 +241,6 @@ permalink: /conference/digital-preservation-2026/sponsors2/
   min-height: 360px;
 }
 
-
 .sponsor-logo-silver {
   height: 190px;
   display: flex;
@@ -263,14 +248,12 @@ permalink: /conference/digital-preservation-2026/sponsors2/
   justify-content: center;
 }
 
-
 .sponsor-logo-silver img {
   max-width: 450px;
   max-height: 220px;
   width: auto;
   height: auto;
 }
-
 
 .sponsor-card-silver .sponsor-name {
   font-size: 1.4rem;
@@ -286,7 +269,6 @@ permalink: /conference/digital-preservation-2026/sponsors2/
   min-height: 280px;
 }
 
-
 .sponsor-logo-bronze {
   height: 145px;
   display: flex;
@@ -294,14 +276,12 @@ permalink: /conference/digital-preservation-2026/sponsors2/
   justify-content: center;
 }
 
-
 .sponsor-logo-bronze img {
   max-width: 300px;
   max-height: 150px;
   width: auto;
   height: auto;
 }
-
 
 .sponsor-card-bronze .sponsor-name {
   font-size: 1.15rem;
@@ -324,7 +304,6 @@ permalink: /conference/digital-preservation-2026/sponsors2/
 
 .sponsor-button {
   display: inline-block;
-
   margin-top: auto;
   padding: 0.55rem 1.15rem;
 
@@ -334,7 +313,6 @@ permalink: /conference/digital-preservation-2026/sponsors2/
   text-decoration: none;
   font-size: 0.95rem;
 }
-
 
 .sponsor-button:hover {
   text-decoration: none;
