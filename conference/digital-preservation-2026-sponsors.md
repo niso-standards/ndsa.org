@@ -12,7 +12,7 @@ permalink: /conference/digital-preservation-2026/sponsors/
 
 ## **Bronze Sponsors**
 
-[<img alt="APTrust Logo" width="250" style="margin: 20px; "src='{{ "/images/sponsors/aptrust_logo.png"}}'>](https://aptrust.org/)
+[<img alt="APTrust Logo" width="250" style="margin: 20px;" src='{{ "/images/sponsors/aptrust_logo.png"}}'>](https://aptrust.org/)
 <p></p>
 <p></p>
 
