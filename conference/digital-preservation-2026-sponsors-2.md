@@ -39,6 +39,39 @@ permalink: /conference/digital-preservation-2026/sponsors2/
 
 </div>
 
+<!--
+<h2>Silver Sponsors</h2>
+
+<div class="sponsor-grid sponsor-grid-silver">
+
+  <div class="sponsor-card sponsor-card-silver">
+
+    <a class="sponsor-logo sponsor-logo-silver"
+       href="SPONSOR-URL"
+       target="_blank"
+       rel="noopener">
+
+      <img
+        src="{{ '/images/sponsors/SPONSOR-LOGO.png' | relative_url }}"
+        alt="Sponsor Name logo"
+      >
+
+    </a>
+
+    <div class="sponsor-name">Sponsor Name</div>
+
+    <a class="sponsor-button"
+       href="SPONSOR-URL"
+       target="_blank"
+       rel="noopener">
+      Visit Sponsor →
+    </a>
+
+  </div>
+
+</div>
+-->
+
 <h2>Bronze Sponsors</h2>
 
 <div class="sponsor-grid sponsor-grid-bronze">
