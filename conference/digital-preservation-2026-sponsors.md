@@ -8,7 +8,7 @@ permalink: /conference/digital-preservation-2026/sponsors/
 
 ## **Gold Sponsor**
 
-[<img alt="Preservica Logo" width="400" src='{{ "/images/sponsors/Preservica_CMYK Logo.jpg"}}'>](https://preservica.com/)
+[<img alt="Preservica Logo" width="600" src='{{ "/images/sponsors/Preservica_CMYK Logo.jpg"}}'>](https://preservica.com/)
 
 ## **Bronze Sponsors**
 
