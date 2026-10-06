@@ -13,7 +13,9 @@ Last updated 4/30/2026
  
  <!--* The [Events Strategy Committee](https://ndsa.org/groups/events-steering/) is soliciting 1-2 new group members. Please reach out to the co-chairs listed on the Membership Working Group webpage to express interest or ask questions. -->
 
- * The [Infrastructure Interest Group](https://www.ndsa.org/groups/infrastructure/) is currently seeking a second co-chair. If you are interested in co-chairing this group please reach out to Leadership at chair [at] ndsa [dot] com to learn more and talk about group formation.
+ * The [Storage Survey Working Group](https://www.ndsa.org/groups/storage-survey/) is currently seeking co-chairs to lead this effort. If you are interested in co-chairing this group please reach out to Leadership at chair [at] ndsa [dot] com to learn more and talk about group formation.
+
+ * The [Infrastructure Interest Group](https://www.ndsa.org/groups/infrastructure/) is currently seeking a second co-chair. If you are interested in co-chairing this group please reach out to Leadership at chair [at] ndsa [dot] com to learn more.
   
  * The longstanding [Content Interest Group](https://ndsa.org/groups/content/) is on currently on hiatus. If you are interested in chairing this group please reach out to Leadership at chair [at] ndsa [dot] com to learn more and talk about group formation.
 
