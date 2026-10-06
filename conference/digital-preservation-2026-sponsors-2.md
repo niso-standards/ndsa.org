@@ -11,89 +11,113 @@ permalink: /conference/digital-preservation-2026/sponsors2/
 <div class="sponsor-grid sponsor-grid-gold">
 
   <div class="sponsor-card sponsor-card-gold">
-    <a class="sponsor-logo sponsor-logo-gold"
-       href="https://preservica.com/"
-       target="_blank"
-       rel="noopener">
-      <img
-        src="{{ '/images/sponsors/Preservica_CMYK Logo.jpg' | relative_url }}"
-        alt="Preservica logo"
-      >
-    </a>
 
-    <div class="sponsor-name">Preservica</div>
+```
+<a class="sponsor-logo sponsor-logo-gold"
+   href="https://preservica.com/"
+   target="_blank"
+   rel="noopener">
 
-    <a class="sponsor-button"
-       href="https://preservica.com/"
-       target="_blank"
-       rel="noopener">
-      Visit Sponsor →
-    </a>
+  <img
+    src="{{ '/images/sponsors/Preservica_CMYK Logo.jpg' | relative_url }}"
+    alt="Preservica logo"
+  >
+
+</a>
+
+<div class="sponsor-name">Preservica</div>
+
+<a class="sponsor-button"
+   href="https://preservica.com/"
+   target="_blank"
+   rel="noopener">
+  Visit Sponsor →
+</a>
+```
+
   </div>
 
 </div>
-
 
 <h2>Bronze Sponsors</h2>
 
 <div class="sponsor-grid sponsor-grid-bronze">
 
-  <div class="sponsor-card">
-    <a class="sponsor-logo"
-       href="https://aptrust.org/"
-       target="_blank"
-       rel="noopener">
-      <img
-        src="{{ '/images/sponsors/aptrust_logo.png' | relative_url }}"
-        alt="APTrust logo"
-      >
-    </a>
+  <div class="sponsor-card sponsor-card-bronze">
 
-    <div class="sponsor-name">APTrust</div>
+```
+<a class="sponsor-logo sponsor-logo-bronze"
+   href="https://aptrust.org/"
+   target="_blank"
+   rel="noopener">
 
-    <a class="sponsor-button"
-       href="https://aptrust.org/"
-       target="_blank"
-       rel="noopener">
-      Visit Sponsor →
-    </a>
+  <img
+    src="{{ '/images/sponsors/aptrust_logo.png' | relative_url }}"
+    alt="APTrust logo"
+  >
+
+</a>
+
+<div class="sponsor-name">APTrust</div>
+
+<a class="sponsor-button"
+   href="https://aptrust.org/"
+   target="_blank"
+   rel="noopener">
+  Visit Sponsor →
+</a>
+```
+
   </div>
 
+  <div class="sponsor-card sponsor-card-bronze">
 
-  <div class="sponsor-card">
-    <a class="sponsor-logo"
-       href="https://www.digitalbedrock.com/"
-       target="_blank"
-       rel="noopener">
-      <img
-        src="{{ '/images/sponsors/Digital-Bedrock_Tag.jpg' | relative_url }}"
-        alt="Digital Bedrock logo"
-      >
-    </a>
+```
+<a class="sponsor-logo sponsor-logo-bronze"
+   href="https://www.digitalbedrock.com/"
+   target="_blank"
+   rel="noopener">
 
-    <div class="sponsor-name">Digital Bedrock</div>
+  <img
+    src="{{ '/images/sponsors/Digital-Bedrock_Tag.jpg' | relative_url }}"
+    alt="Digital Bedrock logo"
+  >
 
-    <a class="sponsor-button"
-       href="https://www.digitalbedrock.com/"
-       target="_blank"
-       rel="noopener">
-      Visit Sponsor →
-    </a>
+</a>
+
+<div class="sponsor-name">Digital Bedrock</div>
+
+<a class="sponsor-button"
+   href="https://www.digitalbedrock.com/"
+   target="_blank"
+   rel="noopener">
+  Visit Sponsor →
+</a>
+```
+
   </div>
 
 </div>
-
 
 <div class="sponsor-cta">
-  <p>
-    <strong>Interested in sponsoring
-      <a href="https://ndsa.org/meetings/">Digital Preservation 2026</a>?</strong>
-    Check out the
-    <a href="https://docs.google.com/document/d/1aAnrNnPfJsjj-sEH_CYIYe-m4Zk0tXvi08KaiRvlZZI/edit?tab=t.0">2026 Sponsorship Prospectus</a>
-    and contact us at ndsadigiprescochair2026 [at] gmail [dot] com.
-  </p>
-</div>
 
+  <p>
+    <strong>
+      Interested in sponsoring
+      <a href="https://ndsa.org/meetings/">Digital Preservation 2026</a>?
+    </strong>
+
+```
+Check out the
+<a href="https://docs.google.com/document/d/1aAnrNnPfJsjj-sEH_CYIYe-m4Zk0tXvi08KaiRvlZZI/edit?tab=t.0">
+  2026 Sponsorship Prospectus
+</a>
+and contact us at ndsadigiprescochair2026 [at] gmail [dot] com.
+```
+
+  </p>
+
+</div>
 
 <style>
 
@@ -108,22 +132,29 @@ permalink: /conference/digital-preservation-2026/sponsors2/
 }
 
 
-/* Gold: one large, full-width card */
+/* Gold: large, full-width */
 
 .sponsor-grid-gold {
   grid-template-columns: 1fr;
 }
 
 
-/* Bronze: two cards side by side */
+/* Silver: medium cards, ready for future sponsors */
 
-.sponsor-grid-bronze {
+.sponsor-grid-silver {
   grid-template-columns: repeat(2, 1fr);
 }
 
 
+/* Bronze: smaller cards */
+
+.sponsor-grid-bronze {
+  grid-template-columns: repeat(3, 1fr);
+}
+
+
 /* =========================================
-   Sponsor cards
+   Base sponsor card
    ========================================= */
 
 .sponsor-card {
@@ -132,7 +163,6 @@ permalink: /conference/digital-preservation-2026/sponsors2/
   align-items: center;
   text-align: center;
 
-  min-height: 300px;
   padding: 2rem 1.5rem 1.5rem;
 
   background: #fff;
@@ -147,14 +177,6 @@ permalink: /conference/digital-preservation-2026/sponsors2/
 }
 
 
-/* Gold card is larger */
-
-.sponsor-card-gold {
-  min-height: 380px;
-  padding: 3rem 2rem 2rem;
-}
-
-
 /* Subtle hover effect */
 
 .sponsor-card:hover {
@@ -164,46 +186,78 @@ permalink: /conference/digital-preservation-2026/sponsors2/
 
 
 /* =========================================
-   Logo area
+   Gold
    ========================================= */
 
-.sponsor-logo {
-  display: flex;
-  align-items: center;
-  justify-content: center;
-
-  width: 100%;
-  height: 140px;
-
-  margin-bottom: 1rem;
+.sponsor-card-gold {
+  min-height: 420px;
+  padding: 3rem 2.5rem 2.5rem;
 }
 
-
-/* Larger logo area for Gold */
 
 .sponsor-logo-gold {
   height: 210px;
 }
 
 
-.sponsor-logo img {
-  display: block;
-
-  max-width: 230px;
-  max-height: 120px;
-
-  width: auto;
-  height: auto;
-
-  object-fit: contain;
+.sponsor-logo-gold img {
+  max-width: 500px;
+  max-height: 240px;
 }
 
 
-/* Larger Gold logo */
+.sponsor-card-gold .sponsor-name {
+  font-size: 1.7rem;
+}
 
-.sponsor-logo-gold img {
-  max-width: 360px;
+
+/* =========================================
+   Silver
+   ========================================= */
+
+.sponsor-card-silver {
+  min-height: 360px;
+}
+
+
+.sponsor-logo-silver {
+  height: 170px;
+}
+
+
+.sponsor-logo-silver img {
+  max-width: 350px;
   max-height: 180px;
+}
+
+
+.sponsor-card-silver .sponsor-name {
+  font-size: 1.4rem;
+}
+
+
+/* =========================================
+   Bronze
+   ========================================= */
+
+.sponsor-card-bronze {
+  min-height: 280px;
+}
+
+
+.sponsor-logo-bronze {
+  height: 120px;
+}
+
+
+.sponsor-logo-bronze img {
+  max-width: 240px;
+  max-height: 120px;
+}
+
+
+.sponsor-card-bronze .sponsor-name {
+  font-size: 1.15rem;
 }
 
 
@@ -213,16 +267,7 @@ permalink: /conference/digital-preservation-2026/sponsors2/
 
 .sponsor-name {
   margin: 0.5rem 0 1.25rem;
-
-  font-size: 1.2rem;
   font-weight: 600;
-}
-
-
-/* Larger Gold sponsor name */
-
-.sponsor-card-gold .sponsor-name {
-  font-size: 1.4rem;
 }
 
 
@@ -256,7 +301,6 @@ permalink: /conference/digital-preservation-2026/sponsors2/
 .sponsor-cta {
   margin-top: 3rem;
   padding-top: 1.5rem;
-
   border-top: 1px solid #ddd;
 }
 
@@ -265,14 +309,25 @@ permalink: /conference/digital-preservation-2026/sponsors2/
    Responsive layout
    ========================================= */
 
-@media (max-width: 700px) {
+@media (max-width: 800px) {
 
-  .sponsor-grid-bronze {
+  .sponsor-grid-bronze,
+  .sponsor-grid-silver {
+    grid-template-columns: repeat(2, 1fr);
+  }
+
+}
+
+
+@media (max-width: 550px) {
+
+  .sponsor-grid-bronze,
+  .sponsor-grid-silver {
     grid-template-columns: 1fr;
   }
 
   .sponsor-card-gold {
-    min-height: 320px;
+    min-height: 340px;
   }
 
   .sponsor-logo-gold {
@@ -280,8 +335,8 @@ permalink: /conference/digital-preservation-2026/sponsors2/
   }
 
   .sponsor-logo-gold img {
-    max-width: 280px;
-    max-height: 150px;
+    max-width: 300px;
+    max-height: 160px;
   }
 
 }
