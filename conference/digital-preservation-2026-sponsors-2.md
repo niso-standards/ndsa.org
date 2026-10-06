@@ -3,7 +3,6 @@ title: 2026 Digital Preservation Sponsors
 layout: page
 permalink: /conference/digital-preservation-2026/sponsors2/
 ---
-
 <p><strong>The Planning Committee wishes to thank our sponsors for their support.</strong></p>
 
 <h2>Gold Sponsor</h2>
@@ -12,32 +11,31 @@ permalink: /conference/digital-preservation-2026/sponsors2/
 
   <div class="sponsor-card sponsor-card-gold">
 
-```
-<a class="sponsor-logo sponsor-logo-gold"
-   href="https://preservica.com/"
-   target="_blank"
-   rel="noopener">
+    <a class="sponsor-logo sponsor-logo-gold"
+       href="https://preservica.com/"
+       target="_blank"
+       rel="noopener">
 
-  <img
-    src="{{ '/images/sponsors/Preservica_CMYK Logo.jpg' | relative_url }}"
-    alt="Preservica logo"
-  >
+      <img
+        src="{{ '/images/sponsors/Preservica_CMYK Logo.jpg' | relative_url }}"
+        alt="Preservica logo"
+      >
 
-</a>
+    </a>
 
-<div class="sponsor-name">Preservica</div>
+    <div class="sponsor-name">Preservica</div>
 
-<a class="sponsor-button"
-   href="https://preservica.com/"
-   target="_blank"
-   rel="noopener">
-  Visit Sponsor →
-</a>
-```
+    <a class="sponsor-button"
+       href="https://preservica.com/"
+       target="_blank"
+       rel="noopener">
+      Visit Sponsor →
+    </a>
 
   </div>
 
 </div>
+
 
 <!--
 <h2>Silver Sponsors</h2>
@@ -72,65 +70,64 @@ permalink: /conference/digital-preservation-2026/sponsors2/
 </div>
 -->
 
+
 <h2>Bronze Sponsors</h2>
 
 <div class="sponsor-grid sponsor-grid-bronze">
 
   <div class="sponsor-card sponsor-card-bronze">
 
-```
-<a class="sponsor-logo sponsor-logo-bronze"
-   href="https://aptrust.org/"
-   target="_blank"
-   rel="noopener">
+    <a class="sponsor-logo sponsor-logo-bronze"
+       href="https://aptrust.org/"
+       target="_blank"
+       rel="noopener">
 
-  <img
-    src="{{ '/images/sponsors/aptrust_logo.png' | relative_url }}"
-    alt="APTrust logo"
-  >
+      <img
+        src="{{ '/images/sponsors/aptrust_logo.png' | relative_url }}"
+        alt="APTrust logo"
+      >
 
-</a>
+    </a>
 
-<div class="sponsor-name">APTrust</div>
+    <div class="sponsor-name">APTrust</div>
 
-<a class="sponsor-button"
-   href="https://aptrust.org/"
-   target="_blank"
-   rel="noopener">
-  Visit Sponsor →
-</a>
-```
+    <a class="sponsor-button"
+       href="https://aptrust.org/"
+       target="_blank"
+       rel="noopener">
+      Visit Sponsor →
+    </a>
 
   </div>
 
+
   <div class="sponsor-card sponsor-card-bronze">
 
-```
-<a class="sponsor-logo sponsor-logo-bronze"
-   href="https://www.digitalbedrock.com/"
-   target="_blank"
-   rel="noopener">
+    <a class="sponsor-logo sponsor-logo-bronze"
+       href="https://www.digitalbedrock.com/"
+       target="_blank"
+       rel="noopener">
 
-  <img
-    src="{{ '/images/sponsors/Digital-Bedrock_Tag.jpg' | relative_url }}"
-    alt="Digital Bedrock logo"
-  >
+      <img
+        src="{{ '/images/sponsors/Digital-Bedrock_Tag.jpg' | relative_url }}"
+        alt="Digital Bedrock logo"
+      >
 
-</a>
+    </a>
 
-<div class="sponsor-name">Digital Bedrock</div>
+    <div class="sponsor-name">Digital Bedrock</div>
 
-<a class="sponsor-button"
-   href="https://www.digitalbedrock.com/"
-   target="_blank"
-   rel="noopener">
-  Visit Sponsor →
-</a>
-```
+    <a class="sponsor-button"
+       href="https://www.digitalbedrock.com/"
+       target="_blank"
+       rel="noopener">
+      Visit Sponsor →
+    </a>
 
   </div>
 
 </div>
+
 
 <div class="sponsor-cta">
 
@@ -140,17 +137,15 @@ permalink: /conference/digital-preservation-2026/sponsors2/
       <a href="https://ndsa.org/meetings/">Digital Preservation 2026</a>?
     </strong>
 
-```
-Check out the
-<a href="https://docs.google.com/document/d/1aAnrNnPfJsjj-sEH_CYIYe-m4Zk0tXvi08KaiRvlZZI/edit?tab=t.0">
-  2026 Sponsorship Prospectus
-</a>
-and contact us at ndsadigiprescochair2026 [at] gmail [dot] com.
-```
-
+    Check out the
+    <a href="https://docs.google.com/document/d/1aAnrNnPfJsjj-sEH_CYIYe-m4Zk0tXvi08KaiRvlZZI/edit?tab=t.0">
+      2026 Sponsorship Prospectus
+    </a>
+    and contact us at ndsadigiprescochair2026 [at] gmail [dot] com.
   </p>
 
 </div>
+
 
 <style>
 
@@ -179,10 +174,13 @@ and contact us at ndsadigiprescochair2026 [at] gmail [dot] com.
 }
 
 
-/* Bronze: smaller cards */
+/* Bronze: smaller cards, centered */
 
 .sponsor-grid-bronze {
-  grid-template-columns: repeat(3, 1fr);
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+  gap: 1.75rem;
 }
 
 
@@ -229,13 +227,18 @@ and contact us at ndsadigiprescochair2026 [at] gmail [dot] com.
 
 
 .sponsor-logo-gold {
-  height: 210px;
+  height: 230px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
 }
 
 
 .sponsor-logo-gold img {
-  max-width: 500px;
-  max-height: 240px;
+  max-width: 600px;
+  max-height: 280px;
+  width: auto;
+  height: auto;
 }
 
 
@@ -254,13 +257,18 @@ and contact us at ndsadigiprescochair2026 [at] gmail [dot] com.
 
 
 .sponsor-logo-silver {
-  height: 170px;
+  height: 190px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
 }
 
 
 .sponsor-logo-silver img {
-  max-width: 350px;
-  max-height: 180px;
+  max-width: 450px;
+  max-height: 220px;
+  width: auto;
+  height: auto;
 }
 
 
@@ -274,18 +282,24 @@ and contact us at ndsadigiprescochair2026 [at] gmail [dot] com.
    ========================================= */
 
 .sponsor-card-bronze {
+  width: 280px;
   min-height: 280px;
 }
 
 
 .sponsor-logo-bronze {
-  height: 120px;
+  height: 145px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
 }
 
 
 .sponsor-logo-bronze img {
-  max-width: 240px;
-  max-height: 120px;
+  max-width: 300px;
+  max-height: 150px;
+  width: auto;
+  height: auto;
 }
 
 
@@ -344,7 +358,6 @@ and contact us at ndsadigiprescochair2026 [at] gmail [dot] com.
 
 @media (max-width: 800px) {
 
-  .sponsor-grid-bronze,
   .sponsor-grid-silver {
     grid-template-columns: repeat(2, 1fr);
   }
@@ -354,7 +367,6 @@ and contact us at ndsadigiprescochair2026 [at] gmail [dot] com.
 
 @media (max-width: 550px) {
 
-  .sponsor-grid-bronze,
   .sponsor-grid-silver {
     grid-template-columns: 1fr;
   }
@@ -364,12 +376,17 @@ and contact us at ndsadigiprescochair2026 [at] gmail [dot] com.
   }
 
   .sponsor-logo-gold {
-    height: 170px;
+    height: 190px;
   }
 
   .sponsor-logo-gold img {
-    max-width: 300px;
-    max-height: 160px;
+    max-width: 90%;
+    max-height: 200px;
+  }
+
+  .sponsor-card-bronze {
+    width: 100%;
+    max-width: 280px;
   }
 
 }
