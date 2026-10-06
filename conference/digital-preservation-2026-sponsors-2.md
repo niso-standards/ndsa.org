@@ -265,20 +265,20 @@ permalink: /conference/digital-preservation-2026/sponsors2/
    ========================================= */
 
 .sponsor-card-bronze {
-  width: 280px;
-  min-height: 280px;
+  width: 340px;
+  min-height: 320px;
 }
 
 .sponsor-logo-bronze {
-  height: 145px;
+  height: 165px;
   display: flex;
   align-items: center;
   justify-content: center;
 }
 
 .sponsor-logo-bronze img {
-  max-width: 300px;
-  max-height: 150px;
+  max-width: 320px;
+  max-height: 165px;
   width: auto;
   height: auto;
 }
@@ -364,7 +364,7 @@ permalink: /conference/digital-preservation-2026/sponsors2/
 
   .sponsor-card-bronze {
     width: 100%;
-    max-width: 280px;
+    max-width: 340px;
   }
 
 }
