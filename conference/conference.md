@@ -36,7 +36,7 @@ Amongst other outputs, Sharon was the lead author of the Novice to Know-How trai
 <!--Do you know someone who would make a great keynote speaker for this year's DigiPres? Submit a nomination via the [nomination form](https://docs.google.com/forms/d/e/1FAIpQLSeIBBe3IcBz_pnjLuuOao6ughwpPzSS_wQMs9qJlaUIChcCLA/viewform). If you have any questions about keynote nominations, please email ndsa [dot]digipres [at] gmail [dot] com.-->
 
 ### Sponsor Opportunities
-We are so grateful to our [Digital Preservation 2026 sponsors](https://ndsa.org/digital-preservation-2026-sponsors/)!
+We are so grateful to our [Digital Preservation 2026 sponsors](https://ndsa.org/conference/digital-preservation-2026-sponsors/)!
 
 Interested in serving as a sponsor for DigiPres 2026? Information about available sponsorship opportunities and levels is available on the [DigiPres 2026 Sponsor Prospectus](https://docs.google.com/document/d/1aAnrNnPfJsjj-sEH_CYIYe-m4Zk0tXvi08KaiRvlZZI/edit?tab=t.0). Email ndsa [dot]digipres [at] gmail [dot] com with any questions.
 
