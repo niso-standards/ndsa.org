@@ -28,6 +28,5 @@ Please reach out to Sibyl Schaefer (sschaefer(at)ucsd(dot)edu) if you have quest
 - Rachel Jacobson
 - Margaret Kidd
 - Eric Phetteplace
-- Max Prud’homme
 - Melde Rutledge
 
