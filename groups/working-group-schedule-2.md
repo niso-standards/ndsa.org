@@ -33,8 +33,8 @@ th {
 
 | Survey | Last Completed | Next Anticipated Start | Typical Cycle |
 |:-------|:--------------:|:----------------------:|:-------------:|
-| Fixity Survey | 2025 | 2029 | Every 4 years |
-| Levels of Digital Preservation | 2024 | 2029 | Every 5 years |
-| Staffing Survey | 2025 | 2028 | Every 3 years |
-| Storage Survey | 2023 | 2026 | Every 3 years |
-| Web Archiving Survey | 2023 | 2026 (In Progress) | Every 3 years |
+| Fixity Survey | 2025-2026 | 2029 | Every 4 years |
+| Levels of Digital Preservation | 2024-2026 | 2029 | Every 5 years |
+| Staffing Survey | 2025-2026 | 2028 | Every 3 years |
+| Storage Survey | 2023-2024 | 2026 | Every 3 years |
+| Web Archiving Survey | 2023-2023 | 2026 (In Progress) | Every 3 years |
