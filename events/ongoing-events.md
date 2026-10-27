@@ -1,9 +1,9 @@
 ---
- title: Events
+ title: Ongoing Events
  layout: page
- permalink: /events/ongoing-events 
+ permalink: /events/ongoing-events/ 
 ---
-The following NDSA events are ongoing event put on by the NDSA Membership Working Group.  
+The following NDSA events are recurring activities hosted by the NDSA Membership Working Group.  
 
 
 ### NDSA Open Orientation Calls
@@ -30,7 +30,7 @@ Sessions may focus on emerging challenges, current projects, professional experi
 Whether you're a longtime NDSA member or new to the community, we invite you to join the conversation!
 
 **Upcoming NDSA Unplugged Events:**  
-November 16th at 12:00 EST
+- November 16th at 12:00 EST
 
 **Topic:** “Small Shop” Edition
 
