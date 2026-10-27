@@ -19,8 +19,11 @@ Contact the co-chairs with any questions: Bethany Scott, bethany.scott [at] yale
 
 ## Group Members 
 - Bethany Scott (co-chair), Head of Preservation Imaging, Yale University 
-- Stacey Erdman (co-chair), Digital Preservation Librarian, University of Arizona
+- Stacey Jones (co-chair), Digital Preservation Librarian, University of Arizona
+- Palash Bosgang, Digital Preservation Manager, Bard College
+- Lauren Goodley, Digital Archivist, Texas State University
 - Danielle Taylor, Digital Preservation Librarian, Indiana University
 - Thomas Pulhamus, Digital Technology Librarian, University of Delaware
+
 
 
