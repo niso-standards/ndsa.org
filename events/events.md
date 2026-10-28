@@ -18,10 +18,9 @@ NDSA hosts quarterly Open Orientation Calls to introduce new and prospective mem
 Whether you're new to NDSA, considering membership, or simply looking for ways to become more involved, these calls are a great opportunity to meet NDSA leadership, ask questions, and connect with the community.
 
 **All are welcome to attend!**
-Sessions are open to new, current, and prospective NDSA members.  
+- Sessions are open to new, current, and prospective NDSA members.  
+- Call information will be posted to the listserv 
 
-**Upcoming Orientation Calls:** 
-Dates and registration information will be added when available
 
 ### NDSA Unplugged
 **NDSA Unplugged** is an informal gathering designed to bring members of the digital stewardship community together for conversation, connection, and the exchange of ideas.
@@ -32,7 +31,8 @@ Sessions may focus on emerging challenges, current projects, professional experi
 
 Whether you're a longtime NDSA member or new to the community, we invite you to join the conversation!
 
-**Upcoming NDSA Unplugged Events:**  
+*Watch the listserve for announcements for details on NDSA Unplugged Events*  
+<!--
 - November 16th at 12:00 EST
 
 **Topic:** “Small Shop” Edition
@@ -45,7 +45,7 @@ Whether you're a longtime NDSA member or new to the community, we invite you to 
 - **Safe Space**:** To encourage completely open and honest conversation, this session will not be recorded.
 - **Zero Prep Required:** Leave the PowerPoint behind—there are no slides or presentations necessary.
 
-Whether you’ve been managing a solo shop for years or you just inherited a digital archive last week, your voice is welcome here.
+Whether you’ve been managing a solo shop for years or you just inherited a digital archive last week, your voice is welcome here.-->
 
 
 ### What are Designated Community Events?
