@@ -47,7 +47,6 @@ Whether you're a longtime NDSA member or new to the community, we invite you to 
 
 Whether you’ve been managing a solo shop for years or you just inherited a digital archive last week, your voice is welcome here.-->
 
-
 ### What are Designated Community Events?
 Designated Community Events are in-person or virtual grassroots gatherings supported by NDSA that create space for digital preservation practitioners at all levels to build relationships, share strategies, and learn from one another. These may include webinars, workshops, or informal community discussions, often organized in partnership with regional or allied organizations. The goal is to provide flexible, practitioner-driven opportunities for engagement beyond the national conference.
 
@@ -62,4 +61,4 @@ We want these events to reflect the needs and creativity of our members. Do you 
 
 [Submit your event suggestion here](https://forms.gle/ZDktH4y5a5N1F7Gr7)
  
-Your input will help NDSA create inclusive, sustainable programming that strengthens our community of practice year-round.
+Your input will help NDSA create inclusive, sustainable programming that strengthens our community of practice all year-round.
