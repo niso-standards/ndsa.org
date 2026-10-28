@@ -31,21 +31,8 @@ Sessions may focus on emerging challenges, current projects, professional experi
 
 Whether you're a longtime NDSA member or new to the community, we invite you to join the conversation!
 
-*Watch the listserve for announcements for details on NDSA Unplugged Events*  
-<!--
-- November 16th at 12:00 EST
+**Watch the listserve for announcements for details on NDSA Unplugged Events**  
 
-**Topic:** “Small Shop” Edition
-
-*As part of our NDSA Unplugged Series, this next “Small Shop Edition”* is a dedicated space for solo practitioners to connect, commiserate, and collaborate. This hour-long session is entirely participant-driven. There is no agenda, no formal presentations, and no pressure.
-
-**What to expect:**
-
-- **Real Talk:** Share your current hurdles, celebrate your recent wins, and exchange practical work hacks that keep your program running.
-- **Safe Space**:** To encourage completely open and honest conversation, this session will not be recorded.
-- **Zero Prep Required:** Leave the PowerPoint behind—there are no slides or presentations necessary.
-
-Whether you’ve been managing a solo shop for years or you just inherited a digital archive last week, your voice is welcome here.-->
 
 ### What are Designated Community Events?
 Designated Community Events are in-person or virtual grassroots gatherings supported by NDSA that create space for digital preservation practitioners at all levels to build relationships, share strategies, and learn from one another. These may include webinars, workshops, or informal community discussions, often organized in partnership with regional or allied organizations. The goal is to provide flexible, practitioner-driven opportunities for engagement beyond the national conference.
