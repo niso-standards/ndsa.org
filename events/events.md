@@ -31,7 +31,7 @@ Sessions may focus on emerging challenges, current projects, professional experi
 
 Whether you're a longtime NDSA member or new to the community, we invite you to join the conversation!
 
-**Watch the listserve for announcements for details on NDSA Unplugged Events**  
+**Watch the listserv for announcements for details on NDSA Unplugged Events**  
 
 
 ### What are Designated Community Events?
