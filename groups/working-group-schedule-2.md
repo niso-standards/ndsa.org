@@ -33,8 +33,8 @@ th {
 
 | Survey | Last Completed | Next Anticipated Start | Typical Cycle |
 |:-------|:--------------:|:----------------------:|:-------------:|
-| Fixity Survey | 2025-2026 | 2029 | Every 4 years |
-| Levels of Digital Preservation | 2024-2026 | 2029 | Every 5 years |
-| Staffing Survey | 2025-2026 | 2028 | Every 3 years |
-| Storage Survey | 2023-2024 | 2026 | Every 3 years |
-| Web Archiving Survey | 2023-2023 | 2026 (In Progress) | Every 3 years |
+| [Fixity Survey](https://www.ndsa.org/groups/fixity/) | 2025-2026 | 2029 | Every 4 years |
+| [Levels of Digital Preservation](https://www.ndsa.org/groups/levels-of-preservation/) | 2024-2026 | 2029 | Every 5 years |
+| [Staffing Survey](https://www.ndsa.org/groups/staffing/) | 2025-2026 | 2028 | Every 3 years |
+| [Storage Survey](https://www.ndsa.org/groups/storage-survey/) | 2023-2024 | 2026 | Every 3 years |
+| [Web Archiving Survey](https://www.ndsa.org/groups/web-archiving/) | 2023-2023 | 2026 (In Progress) | Every 3 years |
