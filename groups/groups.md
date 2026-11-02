@@ -48,8 +48,8 @@ Working Groups are created on an as needed basis.  Once formed, groups may perfo
 #### [Fixity](/groups/fixity/) (cyclical)
 - Created to address the “...clear need for use-case driven examples of best practices for fixity in particular system designs and configurations established to meet particular preservation requirements” raised in the 2015 NDSA National Agenda. This group produced the 2017 Fixity Survey Report as a result of their work. A 2021 survey is in progress.
 
-#### [Levels of Preservation](/groups/levels-of-preservation/) (ongoing)
-- Working to provide the methodology by which the important NDSA Levels of Digital Preservation document can be adapted more readily—taking in the broadest possible feedback in the process. Created the Levels of Digital Preservation V2.0 in October 2019. Work continues.
+#### [Levels of Digital Preservation](/groups/levels-of-preservation/) (ongoing)
+- The Levels of Digital Preservation utalizes both a Steering Group and Working Group. The Steering Group is ongoing and spins up the Working Group about every five years with the purpose of updating the Levels of Digital Preservation outputs. The Levels of Digital Preservation V2.1 was published in Februrary of 2026. Work continues.
 
 #### [Membership Working Group](/groups/membership/)
 - The Membership Working Group was created to address the results of the Membership Task Force with the goal of addressing the findings.  
